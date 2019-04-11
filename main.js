@@ -26,6 +26,7 @@ function createWindow () {
     // event.sender.send('asynchronous-reply', 'pong')
   })
 
+  // 添加待处理文件
   ipcMain.on('open-file-dialog', event => {
     dialog.showOpenDialog({
       properties: ['openFile', 'openDirectory', 'multiSelections']
@@ -36,16 +37,21 @@ function createWindow () {
       _list = getFileInfo(files)
       console.log('list', _list)
 
-      copyFile(_list, '/Users/jiangyalin/Music/test')
-
       list.push(..._list)
 
+      // 传递文件列表
       event.sender.send('open-file-reply', list)
 
-      if (files) {
-        event.sender.send('selected-directory', files)
-      }
     })
+  })
+
+  // 处理文件并输出
+  ipcMain.on('compared-file', event => {
+    list = removeRepeatDown(list)
+
+    copyFile(list, '/Users/jiangyalin/Music/test')
+
+    event.sender.send('compared-file-reply', list)
   })
 }
 
@@ -74,6 +80,26 @@ const copyFile = (files, folder) => {
       if (err) return console.log(err)
     })
   })
+}
+
+// 删除重复下载文件
+const removeRepeatDown = (files) => {
+  // 以'('开始并以')'为结束，并且中间为数值的判定为重复下载文件
+  return files.filter(item => isRepeatDownName(item.name))
+}
+
+const isRepeatDownName = (name) => {
+  const rearIndex = name.lastIndexOf(').')
+
+  const _name = name.substring(0, rearIndex)
+
+  const beforeIndex = _name.lastIndexOf('(') + 1
+
+  const number = _name.substring(beforeIndex, rearIndex)
+
+  const re = /^[0-9]$/
+
+  return !re.test(number)
 }
 
 app.on('ready', createWindow)

@@ -1,7 +1,17 @@
-const path = '/Users/jiangyalin/Music/网易云音乐/坂本真綾 - CLEAR.flac'
+const name = '陈慧琳 - 今生你作伴(国) (2).ncm'
 
-const index = path.lastIndexOf('/') + 1
+const rearIndex = name.lastIndexOf(').')
+console.log('rearIndex', rearIndex)
 
-const name = path.substring(index)
+const _name = name.substring(0, rearIndex)
+console.log('_name', _name)
 
-console.log(name)
+const beforeIndex = _name.lastIndexOf('(') + 1
+console.log('beforeIndex', beforeIndex)
+
+const number = _name.substring(beforeIndex, rearIndex)
+console.log('number', number)
+
+const re = /^[0-9]$/
+
+console.log('name', re.test(number))
