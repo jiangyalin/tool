@@ -39,6 +39,8 @@ function createWindow () {
 
       list.push(..._list)
 
+      createSingerInfo(list)
+
       // 传递文件列表
       event.sender.send('open-file-reply', list)
 
@@ -85,11 +87,6 @@ const copyFile = (files, folder) => {
 // 删除重复下载文件
 const removeRepeatDown = (files) => {
 
-  const singer = {
-    name: ''
-  }
-  recordSingerInfo(singer)
-
   return files.filter(item => isRepeatDownName(item.name))
 }
 
@@ -108,25 +105,122 @@ const isRepeatDownName = (name) => {
   return !re.test(number)
 }
 
+// 获取歌手姓名
+const getSingerName = (fileName) => {
+  const rearIndex = fileName.indexOf('-')
+
+  const _name = fileName.substring(0, rearIndex)
+
+  let index = 0
+  for (let i = _name.length; i > 1; i--) {
+    if (_name.substring(i - 1, i) !== ' ') {
+      index = i
+      i = 1
+    }
+  }
+  return fileName.substring(0, index)
+}
+
+// 获取音乐名称
+const getSongName = (fileName) => {
+  let beforeIndex = fileName.indexOf('-')
+
+  const beforeName = fileName.substring(beforeIndex + 1)
+
+  for (let i = 0; i < beforeName.length; i++) {
+    if (beforeName.substring(i, i + 1) !== ' ') {
+      beforeIndex += i
+      i = beforeName.length
+    }
+  }
+
+  let rearIndex = fileName.indexOf('.')
+
+  const rearName = fileName.substring(0, rearIndex)
+
+  for (let i = rearName.length; i > 1; i--) {
+    if (rearName.substring(i - 1, i) !== ' ') {
+      rearIndex = i
+      i = 1
+    }
+  }
+
+  return fileName.substring(beforeIndex + 1, rearIndex)
+}
+
+// 生成歌手信息
+const createSingerInfo = (list) => {
+  list.forEach(item => {
+    const singer = {
+      name: getSingerName(item.name),
+      song: {
+        name: getSongName(item.name),
+        fileName: item.name
+      }
+    }
+    recordSingerInfo(singer)
+  })
+}
+
+// 记录歌手信息
 const recordSingerInfo = (singer) => {
-  fs.readFile('./data/music/singer/index.json', {
+  const data = fs.readFileSync('./data/music/singer/index.json', {
     encoding: 'utf8',
     flag: 'a+'
-  }, (err, data) => {
-    if (err) return console.log('err', err)
+  })
 
-    let obj = JSON.parse(data || '{}')
+  let obj = JSON.parse(data || '{}')
 
-    // 不存在此歌手
-    if (!obj[singer.name]) {
-      obj[singer.name] = singer
+  // 不存在此歌手
+  if (!obj[singer.name]) {
+    obj[singer.name] = {
+      name: singer.name,
+      song: [{
+        name: singer.song.name,
+        fileNames: [{
+          name: singer.song.fileName
+        }]
+      }]
+    }
+  } else {
 
-      fs.writeFile('./data/music/singer/index.json', JSON.stringify(obj), {
-        encoding: 'utf-8'
-      }, err => {
-        if (err) return console.log('err', err)
+    let song = obj[singer.name].song
+
+    // 存在此歌曲
+    const isExistenceSongName = song.map(item => item.name).indexOf(singer.song.name) !== -1
+    if (isExistenceSongName) {
+      song = song.map(item => {
+        if (item.name === singer.song.name) {
+          let fileNames = item.fileNames
+
+          // 存在此文件
+          const isExistenceSongFileName = fileNames.map(node => node.name).indexOf(singer.song.fileName) === -1
+          if (isExistenceSongFileName) {
+            fileNames.push({
+              name: singer.song.fileName
+            })
+          }
+          return {
+            ...item,
+            fileNames
+          }
+        } else {
+          return item
+        }
+      })
+    } else {
+      song.push({
+        name: singer.song.name,
+        fileName: [{
+          name: singer.song.fileName
+        }]
       })
     }
+
+    obj[singer.name].song = song
+  }
+  fs.writeFileSync('./data/music/singer/index.json', JSON.stringify(obj), {
+    encoding: 'utf-8'
   })
 }
 
