@@ -38,10 +38,9 @@ function createWindow () {
 
       copyFile(_list, '/Users/jiangyalin/Music/test')
 
-
-      event.sender.send('open-file-reply', _list)
-
       list.push(..._list)
+
+      event.sender.send('open-file-reply', list)
 
       if (files) {
         event.sender.send('selected-directory', files)
