@@ -84,10 +84,16 @@ const copyFile = (files, folder) => {
 
 // 删除重复下载文件
 const removeRepeatDown = (files) => {
-  // 以'('开始并以')'为结束，并且中间为数值的判定为重复下载文件
+
+  const singer = {
+    name: ''
+  }
+  recordSingerInfo(singer)
+
   return files.filter(item => isRepeatDownName(item.name))
 }
 
+// 以'('开始并以')'为结束，并且中间为数值的判定为重复下载文件
 const isRepeatDownName = (name) => {
   const rearIndex = name.lastIndexOf(').')
 
@@ -100,6 +106,28 @@ const isRepeatDownName = (name) => {
   const re = /^[0-9]$/
 
   return !re.test(number)
+}
+
+const recordSingerInfo = (singer) => {
+  fs.readFile('./data/music/singer/index.json', {
+    encoding: 'utf8',
+    flag: 'a+'
+  }, (err, data) => {
+    if (err) return console.log('err', err)
+
+    let obj = JSON.parse(data || '{}')
+
+    // 不存在此歌手
+    if (!obj[singer.name]) {
+      obj[singer.name] = singer
+
+      fs.writeFile('./data/music/singer/index.json', JSON.stringify(obj), {
+        encoding: 'utf-8'
+      }, err => {
+        if (err) return console.log('err', err)
+      })
+    }
+  })
 }
 
 app.on('ready', createWindow)
