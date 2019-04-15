@@ -57,6 +57,7 @@ function createWindow () {
   })
 }
 
+// 获取文件详细信息
 const getFileInfo = paths => {
   const list = []
   paths.forEach(path => {
@@ -159,7 +160,9 @@ const createSingerInfo = (list) => {
       name: getSingerName(item.name),
       song: {
         name: getSongName(item.name),
-        fileName: item.name
+        fileName: item.name,
+        size: item.size,
+        path: item.path
       }
     }
     recordSingerInfo(singer)
@@ -181,8 +184,12 @@ const recordSingerInfo = (singer) => {
       name: singer.name,
       song: [{
         name: singer.song.name,
-        fileNames: [{
-          name: singer.song.fileName
+        singer: '', // 歌手名
+        isManyPeople: false, // 是否为多人演唱
+        files: [{
+          name: singer.song.fileName,
+          filePath: singer.song.path, // 文件路径
+          size: singer.song.size // 文件大小
         }]
       }]
     }
@@ -195,18 +202,20 @@ const recordSingerInfo = (singer) => {
     if (isExistenceSongName) {
       song = song.map(item => {
         if (item.name === singer.song.name) {
-          let fileNames = item.fileNames
+          let files = item.files
 
           // 存在此文件
-          const isExistenceSongFileName = fileNames.map(node => node.name).indexOf(singer.song.fileName) === -1
-          if (isExistenceSongFileName) {
-            fileNames.push({
-              name: singer.song.fileName
+          const isExistenceSongFileName = files.map(node => node.path).indexOf(singer.song.path) !== -1
+          if (!isExistenceSongFileName) {
+            files.push({
+              name: singer.song.fileName,
+              filePath: singer.song.path, // 文件路径
+              size: singer.song.size // 文件大小
             })
           }
           return {
             ...item,
-            fileNames
+            files
           }
         } else {
           return item
@@ -214,9 +223,13 @@ const recordSingerInfo = (singer) => {
       })
     } else {
       song.push({
-        name: singer.song.name,
-        fileNames: [{
-          name: singer.song.fileName
+        name: singer.song.name, // 歌曲名
+        singer: '', // 歌手名
+        isManyPeople: false, // 是否为多人演唱
+        files: [{ // 文件名
+          name: singer.song.fileName, // 文件名
+          filePath: singer.song.filePath, // 文件路径
+          size: singer.song.size // 文件大小
         }]
       })
     }
@@ -237,3 +250,19 @@ app.on('window-all-closed', () => {
 app.on('activate', () => {
   if (mainWindow === null) createWindow()
 })
+
+// const index = {
+//   [歌手名]: {
+//     name: '', // 歌手名
+//     song: [{ // 歌曲列表
+//       name: '', // 歌曲名
+//       singer: '', // 歌手名
+//       isManyPeople: false, // 是否为多人演唱
+//       files: [{ // 文件名
+//         name: '', // 文件名
+//         filePath: '', // 文件路径
+//         size: '' // 文件大小
+//       }]
+//     }]
+//   }
+// }
