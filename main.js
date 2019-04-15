@@ -72,6 +72,7 @@ const getFileInfo = paths => {
   return list
 }
 
+// 获取文件名（包括后缀名）
 const getFileName = path => {
   const index = path.lastIndexOf('/') + 1
   return path.substring(index)
@@ -113,50 +114,24 @@ const isCopyName = (name) => {
 // 获取歌手姓名
 const getSingerName = (fileName) => {
   const rearIndex = fileName.indexOf('-')
-
-  const _name = fileName.substring(0, rearIndex)
-
-  let index = 0
-  for (let i = _name.length; i > 1; i--) {
-    if (_name.substring(i - 1, i) !== ' ') {
-      index = i
-      i = 1
-    }
-  }
-  return fileName.substring(0, index)
+  return trim(fileName.substring(0, rearIndex))
 }
 
 // 获取音乐名称
 const getSongName = (fileName) => {
-  let beforeIndex = fileName.indexOf('-')
-
-  const beforeName = fileName.substring(beforeIndex + 1)
-
-  for (let i = 0; i < beforeName.length; i++) {
-    if (beforeName.substring(i, i + 1) !== ' ') {
-      beforeIndex += i
-      i = beforeName.length
-    }
-  }
-
-  let rearIndex = fileName.lastIndexOf('.')
-
-  const rearName = fileName.substring(0, rearIndex)
-
-  for (let i = rearName.length; i > 1; i--) {
-    if (rearName.substring(i - 1, i) !== ' ') {
-      rearIndex = i
-      i = 1
-    }
-  }
-
-  return fileName.substring(beforeIndex + 1, rearIndex)
+  const beforeIndex = fileName.indexOf('-')
+  const rearIndex = fileName.lastIndexOf('.')
+  return trim(fileName.substring(beforeIndex + 1, rearIndex))
 }
 
 // 生成歌手信息
 const createSingerInfo = (list) => {
   list.forEach(item => {
-    const singerName = getSingerName(item.name)
+    let singerName = getSingerName(item.name)
+    let separator = ','
+    if (singerName.indexOf(',') !== -1) separator = ','
+    if (singerName.indexOf('、') !== -1) separator = '、'
+    singerName = singerName.split(separator).map(node => trim(node)).join(',')
     const singers = singerName.split(',').map(name => {
       return {
         name: name,
@@ -246,6 +221,11 @@ const recordSingerInfo = (singer) => {
   fs.writeFileSync('./data/music/singer/index.json', JSON.stringify(obj), {
     encoding: 'utf-8'
   })
+}
+
+// 去除首位空格
+const trim = (str) => {
+  return str.replace(/^\s+|\s+$/g, '')
 }
 
 app.on('ready', createWindow)

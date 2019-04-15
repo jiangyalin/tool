@@ -1,21 +1,11 @@
-const name = '成龙,金喜善 - 美丽的神话Ⅰ.mp3'
+const name = '   as  df '
 
-const getSingerName = (fileName) => {
-  const rearIndex = fileName.indexOf('-')
-
-  const _name = fileName.substring(0, rearIndex)
-
-  let index = 0
-  for (let i = _name.length; i > 1; i--) {
-    if (_name.substring(i - 1, i) !== ' ') {
-      index = i
-      i = 1
-    }
-  }
-  return fileName.substring(0, index)
+const getSingerName = (str) => {
+  console.log('str', str)
+  return str.replace(/^\s+|\s+$/g, '')
 }
 
-console.log('getSongName', getSingerName(name).split(','))
+console.log('getSongName', getSingerName(name))
 
 // const rearIndex = name.indexOf('-')
 // console.log('rearIndex', rearIndex)
