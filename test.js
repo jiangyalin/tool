@@ -1,32 +1,21 @@
-const name = '小木曽雪菜    -    あなたを想いたい   .flac'
+const name = '成龙,金喜善 - 美丽的神话Ⅰ.mp3'
 
-const getSongName = (fileName) => {
-  let beforeIndex = fileName.indexOf('-')
+const getSingerName = (fileName) => {
+  const rearIndex = fileName.indexOf('-')
 
-  const beforeName = fileName.substring(beforeIndex + 1)
+  const _name = fileName.substring(0, rearIndex)
 
-  for (let i = 0; i < beforeName.length; i++) {
-    if (beforeName.substring(i, i + 1) !== ' ') {
-      beforeIndex += i
-      i = beforeName.length
-    }
-  }
-
-  let rearIndex = fileName.indexOf('.')
-
-  const rearName = fileName.substring(0, rearIndex)
-
-  for (let i = rearName.length; i > 1; i--) {
-    if (rearName.substring(i - 1, i) !== ' ') {
-      rearIndex = i
+  let index = 0
+  for (let i = _name.length; i > 1; i--) {
+    if (_name.substring(i - 1, i) !== ' ') {
+      index = i
       i = 1
     }
   }
-
-  return fileName.substring(beforeIndex + 1, rearIndex)
+  return fileName.substring(0, index)
 }
 
-console.log('getSongName', getSongName(name))
+console.log('getSongName', getSingerName(name).split(','))
 
 // const rearIndex = name.indexOf('-')
 // console.log('rearIndex', rearIndex)

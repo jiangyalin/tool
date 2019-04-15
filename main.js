@@ -156,16 +156,23 @@ const getSongName = (fileName) => {
 // 生成歌手信息
 const createSingerInfo = (list) => {
   list.forEach(item => {
-    const singer = {
-      name: getSingerName(item.name),
-      song: {
-        name: getSongName(item.name),
-        fileName: item.name,
-        size: item.size,
-        path: item.path
+    const singerName = getSingerName(item.name)
+    const singers = singerName.split(',').map(name => {
+      return {
+        name: name,
+        song: {
+          name: getSongName(item.name),
+          singer: singerName,
+          isManyPeople: singerName.length > 1, // 是否为多人演唱
+          fileName: item.name,
+          size: item.size,
+          path: item.path
+        }
       }
-    }
-    recordSingerInfo(singer)
+    })
+    singers.forEach(item => {
+      recordSingerInfo(item)
+    })
   })
 }
 
@@ -184,8 +191,8 @@ const recordSingerInfo = (singer) => {
       name: singer.name,
       song: [{
         name: singer.song.name,
-        singer: '', // 歌手名
-        isManyPeople: false, // 是否为多人演唱
+        singer: singer.song.singer, // 歌手名
+        isManyPeople: singer.song.isManyPeople, // 是否为多人演唱
         files: [{
           name: singer.song.fileName,
           filePath: singer.song.path, // 文件路径
@@ -224,8 +231,8 @@ const recordSingerInfo = (singer) => {
     } else {
       song.push({
         name: singer.song.name, // 歌曲名
-        singer: '', // 歌手名
-        isManyPeople: false, // 是否为多人演唱
+        singer: singer.song.singer, // 歌手名
+        isManyPeople: singer.song.isManyPeople, // 是否为多人演唱
         files: [{ // 文件名
           name: singer.song.fileName, // 文件名
           filePath: singer.song.filePath, // 文件路径
