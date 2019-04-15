@@ -1,62 +1,12 @@
 {
-  "坂本真綾": {
-    "name": "坂本真綾",
+  "牛尾憲輔": {
+    "name": "牛尾憲輔",
     "song": [
       {
-        "name": "CLEAR",
+        "name": "D.V.M.N.  -Theme From ＂DEVILMAN crybaby＂-",
         "fileNames": [
           {
-            "name": "坂本真綾 - CLEAR.flac"
-          }
-        ]
-      },
-      {
-        "name": "プラチナ",
-        "fileName": [
-          {
-            "name": "坂本真綾 - プラチナ.flac"
-          }
-        ]
-      }
-    ]
-  },
-  "伴都美子": {
-    "name": "伴都美子",
-    "song": [
-      {
-        "name": "farewell",
-        "fileNames": [
-          {
-            "name": "伴都美子 - farewell.flac"
-          }
-        ]
-      }
-    ]
-  },
-  "浜崎あゆみ": {
-    "name": "浜崎あゆみ",
-    "song": [
-      {
-        "name": "Dearest",
-        "fileNames": [
-          {
-            "name": "浜崎あゆみ - Dearest.flac"
-          }
-        ]
-      },
-      {
-        "name": "End roll (new vocal)",
-        "fileName": [
-          {
-            "name": "浜崎あゆみ - End roll (new vocal).flac"
-          }
-        ]
-      },
-      {
-        "name": "Love Song",
-        "fileName": [
-          {
-            "name": "浜崎あゆみ - Love Song.flac"
+            "name": "牛尾憲輔 - D.V.M.N.  -Theme From ＂DEVILMAN crybaby＂-.flac"
           }
         ]
       }

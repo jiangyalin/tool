@@ -39,8 +39,6 @@ function createWindow () {
 
       list.push(..._list)
 
-      createSingerInfo(list)
-
       // 传递文件列表
       event.sender.send('open-file-reply', list)
 
@@ -50,6 +48,8 @@ function createWindow () {
   // 处理文件并输出
   ipcMain.on('compared-file', event => {
     list = removeRepeatDown(list)
+
+    createSingerInfo(list)
 
     copyFile(list, '/Users/jiangyalin/Music/test')
 
@@ -86,8 +86,7 @@ const copyFile = (files, folder) => {
 
 // 删除重复下载文件
 const removeRepeatDown = (files) => {
-
-  return files.filter(item => isRepeatDownName(item.name))
+  return files.filter(item => !isRepeatDownName(item.name) && !isCopyName(item.name))
 }
 
 // 以'('开始并以')'为结束，并且中间为数值的判定为重复下载文件
@@ -102,7 +101,12 @@ const isRepeatDownName = (name) => {
 
   const re = /^[0-9]$/
 
-  return !re.test(number)
+  return re.test(number)
+}
+
+// 文件名中带有'的副本'判定为复制文件
+const isCopyName = (name) => {
+  return name.indexOf('的副本') !== -1
 }
 
 // 获取歌手姓名
@@ -134,7 +138,7 @@ const getSongName = (fileName) => {
     }
   }
 
-  let rearIndex = fileName.indexOf('.')
+  let rearIndex = fileName.lastIndexOf('.')
 
   const rearName = fileName.substring(0, rearIndex)
 
@@ -211,7 +215,7 @@ const recordSingerInfo = (singer) => {
     } else {
       song.push({
         name: singer.song.name,
-        fileName: [{
+        fileNames: [{
           name: singer.song.fileName
         }]
       })
