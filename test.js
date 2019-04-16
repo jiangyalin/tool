@@ -1,11 +1,11 @@
-const name = '   as  df '
-
-const getSingerName = (str) => {
-  console.log('str', str)
-  return str.replace(/^\s+|\s+$/g, '')
-}
-
-console.log('getSongName', getSingerName(name))
+// const name = '   as  df '
+//
+// const getSingerName = (str) => {
+//   console.log('str', str)
+//   return str.replace(/^\s+|\s+$/g, '')
+// }
+//
+// console.log('getSongName', getSingerName(name))
 
 // const rearIndex = name.indexOf('-')
 // console.log('rearIndex', rearIndex)

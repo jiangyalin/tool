@@ -32,5 +32,39 @@
         ]
       }
     ]
+  },
+  "帆足圭吾": {
+    "name": "帆足圭吾",
+    "song": [
+      {
+        "name": "曖昧ナ希望／氷雨",
+        "singer": "帆足圭吾",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "帆足圭吾 - 曖昧ナ希望／氷雨.flac",
+            "filePath": "/Users/jiangyalin/Desktop/网易/帆足圭吾 - 曖昧ナ希望／氷雨.flac",
+            "size": 18814776
+          }
+        ]
+      }
+    ]
+  },
+  "MONACA": {
+    "name": "MONACA",
+    "song": [
+      {
+        "name": "曖昧ナ希望_氷雨",
+        "singer": "MONACA",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "MONACA - 曖昧ナ希望_氷雨.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/MONACA - 曖昧ナ希望_氷雨.flac",
+            "size": 18764296
+          }
+        ]
+      }
+    ]
   }
 }

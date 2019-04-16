@@ -1,6 +1,7 @@
 // const api = require('./src/api')
 const fs = require('fs-extra')
 const {app, BrowserWindow, ipcMain, dialog} = require('electron')
+const configPath = './data/music/singer/index.json'
 
 let mainWindow
 
@@ -32,9 +33,7 @@ function createWindow () {
       properties: ['openFile', 'openDirectory', 'multiSelections']
     }, (files) => {
 
-      let _list = []
-
-      _list = getFileInfo(files)
+      const _list = getFileInfo(files)
       console.log('list', _list)
 
       list.push(..._list)
@@ -87,12 +86,12 @@ const copyFile = (files, folder) => {
 }
 
 // 删除重复下载文件
-const removeRepeatDown = (files) => {
+const removeRepeatDown = files => {
   return files.filter(item => !isRepeatDownName(item.name) && !isCopyName(item.name))
 }
 
 // 以'('开始并以')'为结束，并且中间为数值的判定为重复下载文件
-const isRepeatDownName = (name) => {
+const isRepeatDownName = name => {
   const rearIndex = name.lastIndexOf(').')
 
   const _name = name.substring(0, rearIndex)
@@ -107,25 +106,25 @@ const isRepeatDownName = (name) => {
 }
 
 // 文件名中带有'的副本'判定为复制文件
-const isCopyName = (name) => {
+const isCopyName = name => {
   return name.indexOf('的副本') !== -1
 }
 
 // 获取歌手姓名
-const getSingerName = (fileName) => {
+const getSingerName = fileName => {
   const rearIndex = fileName.indexOf('-')
   return trim(fileName.substring(0, rearIndex))
 }
 
 // 获取音乐名称
-const getSongName = (fileName) => {
+const getSongName = fileName => {
   const beforeIndex = fileName.indexOf('-')
   const rearIndex = fileName.lastIndexOf('.')
   return trim(fileName.substring(beforeIndex + 1, rearIndex))
 }
 
 // 生成歌手信息
-const createSingerInfo = (list) => {
+const createSingerInfo = list => {
   list.forEach(item => {
     let singerName = getSingerName(item.name)
     let separator = ','
@@ -138,7 +137,7 @@ const createSingerInfo = (list) => {
         song: {
           name: getSongName(item.name),
           singer: singerName,
-          isManyPeople: singerName.length > 1, // 是否为多人演唱
+          isManyPeople: singerName.split(',').length > 1, // 是否为多人演唱
           fileName: item.name,
           size: item.size,
           path: item.path
@@ -152,8 +151,8 @@ const createSingerInfo = (list) => {
 }
 
 // 记录歌手信息
-const recordSingerInfo = (singer) => {
-  const data = fs.readFileSync('./data/music/singer/index.json', {
+const recordSingerInfo = singer => {
+  const data = fs.readFileSync(configPath, {
     encoding: 'utf8',
     flag: 'a+'
   })
@@ -218,13 +217,13 @@ const recordSingerInfo = (singer) => {
 
     obj[singer.name].song = song
   }
-  fs.writeFileSync('./data/music/singer/index.json', JSON.stringify(obj), {
+  fs.writeFileSync(configPath, JSON.stringify(obj), {
     encoding: 'utf-8'
   })
 }
 
 // 去除首位空格
-const trim = (str) => {
+const trim = str => {
   return str.replace(/^\s+|\s+$/g, '')
 }
 
