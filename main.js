@@ -113,7 +113,9 @@ const isCopyName = name => {
 // 获取歌手姓名
 const getSingerName = fileName => {
   const rearIndex = fileName.indexOf('-')
-  return trim(fileName.substring(0, rearIndex))
+  let name = trim(fileName.substring(0, rearIndex))
+  if (name === '') name = '未知'
+  return name
 }
 
 // 获取音乐名称
