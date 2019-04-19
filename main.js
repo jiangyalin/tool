@@ -34,7 +34,7 @@ function createWindow () {
     }, (files) => {
 
       const _list = getFileInfo(files)
-      console.log('list', _list)
+      // console.log('list', _list)
 
       list.push(..._list)
 
@@ -48,9 +48,25 @@ function createWindow () {
   ipcMain.on('compared-file', event => {
     list = removeRepeatDown(list)
 
-    createSingerInfo(list)
+    list = createSingerInfo(list)
+    console.log('list', list)
 
-    copyFile(list, '/Users/jiangyalin/Music/test')
+    /*
+    * 以下为转换数据
+    * */
+
+    list = removeSongNameRemark(list)
+
+    list = conversionUnknownName(list)
+
+    list = pluralToOne(list)
+    console.log('_list', list.length)
+
+    list.forEach(item => {
+      recordSingerInfo(item)
+    })
+
+    // copyFile(list, '/Users/jiangyalin/Music/test')
 
     event.sender.send('compared-file-reply', list)
   })
@@ -77,9 +93,10 @@ const getFileName = path => {
   return path.substring(index)
 }
 
+// 复制文件到指定目录
 const copyFile = (files, folder) => {
   files.forEach(file => {
-    fs.copy(file.path, folder + '/' + file.name, err => {
+    fs.copy(file.song.path, folder + '/' + file.song.name, err => {
       if (err) return console.log(err)
     })
   })
@@ -127,6 +144,7 @@ const getSongName = fileName => {
 
 // 生成歌手信息
 const createSingerInfo = list => {
+  const _list = []
   list.forEach(item => {
     let singerName = getSingerName(item.name)
     let separator = ','
@@ -146,9 +164,71 @@ const createSingerInfo = list => {
         }
       }
     })
-    singers.forEach(item => {
-      recordSingerInfo(item)
+    _list.push(...singers)
+  })
+  return _list
+}
+
+// 转换查询未知歌手姓名
+const conversionUnknownName = list => {
+  return list.map(item => {
+    let name = item.name
+    let isManyPeople = item.song.isManyPeople
+    let singer = item.song.singer
+    if (item.name === '未知') {
+      list.forEach(node => {
+        if (node.name !== '未知' && node.song.name === item.song.name) {
+          name = node.name
+          singer = node.song.singer
+          isManyPeople = node.song.isManyPeople
+        }
+      })
+    }
+    return {
+      ...item,
+      song: {
+        ...item.song,
+        singer,
+        isManyPeople
+      },
+      name
+    }
+  })
+}
+
+// 删除歌曲备注
+const removeSongNameRemark = list => {
+  return list.map(item => {
+    let name = item.song.name
+    const rearIndex = name.lastIndexOf(')') + 1
+
+    const beforeIndex = name.lastIndexOf('(')
+
+    const _name = name.substring(0, beforeIndex) + name.substring(rearIndex)
+
+    return {
+      ...item,
+      song: {
+        ...item.song,
+        name: _name
+      }
+    }
+  })
+}
+
+// 相同名称的歌曲只保留品质最优的一个
+const pluralToOne = list => {
+  const record = []
+  return list.filter(item => {
+    let isSizeMax = true
+    list.forEach(node => {
+      if (item.song.name === node.song.name) {
+        if (item.song.size < node.song.size) isSizeMax = false
+      }
     })
+    if (record.indexOf(item.song.name) !== -1) isSizeMax = false
+    if (record.indexOf(item.song.name) === -1 && isSizeMax) record.push(item.song.name)
+    return isSizeMax
   })
 }
 
@@ -211,7 +291,7 @@ const recordSingerInfo = singer => {
         isManyPeople: singer.song.isManyPeople, // 是否为多人演唱
         files: [{ // 文件名
           name: singer.song.fileName, // 文件名
-          filePath: singer.song.filePath, // 文件路径
+          filePath: singer.song.path, // 文件路径
           size: singer.song.size // 文件大小
         }]
       })
@@ -254,3 +334,13 @@ app.on('activate', () => {
 //     }]
 //   }
 // }
+
+// 滴草由実 - 花篝(はなかが)り.mp3
+// 和田薫 - 时代を超える想い1.mp3
+// 牧野由依,渕上舞,津田美波 - Love∞Destiny (M@STER VERSION).mp3
+// 霜月はるか - EXEC_LINCA／.flac
+// 水野佐彩 - My Secret (TV size).mp3
+// Aimer,SawanoHiroyuki[nZk] - ninelie ＜cry-v＞.flac
+// ave;new,佐倉紗織 - Eternal Wish.mp3
+// Chen-U - Horizon.mp3
+// CHIHIRO,Tarantula from スポンテニア - 永遠.mp3

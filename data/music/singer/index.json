@@ -1,16 +1,7292 @@
 {
+  "3L": {
+    "name": "3L",
+    "song": [
+      {
+        "name": "・－・・ －－－ ・・・－ ・",
+        "singer": "3L",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "3L - ・－・・ －－－ ・・・－ ・(signum／ii remix).mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/3L - ・－・・ －－－ ・・・－ ・(signum／ii remix).mp3",
+            "size": 15262318
+          }
+        ]
+      },
+      {
+        "name": "Night'n'NIGHT",
+        "singer": "3L",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "3L - Night'n'NIGHT.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/3L - Night'n'NIGHT.mp3",
+            "size": 11996527
+          }
+        ]
+      },
+      {
+        "name": "Three Magic",
+        "singer": "3L",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "3L - Three Magic.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/3L - Three Magic.flac",
+            "size": 31938987
+          }
+        ]
+      }
+    ]
+  },
+  "阿保剛": {
+    "name": "阿保剛",
+    "song": [
+      {
+        "name": "Believe Me",
+        "singer": "阿保剛",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "阿保剛 - Believe Me.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/阿保剛 - Believe Me.mp3",
+            "size": 5269043
+          }
+        ]
+      }
+    ]
+  },
+  "阿里郎": {
+    "name": "阿里郎",
+    "song": [
+      {
+        "name": "兰花指",
+        "singer": "阿里郎",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "阿里郎 - 兰花指.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/阿里郎 - 兰花指.mp3",
+            "size": 8734793
+          }
+        ]
+      }
+    ]
+  },
+  "阿桑": {
+    "name": "阿桑",
+    "song": [
+      {
+        "name": "一直很安静",
+        "singer": "阿桑",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "阿桑 - 一直很安静.ncm",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/阿桑 - 一直很安静.ncm",
+            "size": 10203402
+          }
+        ]
+      }
+    ]
+  },
+  "安田レイ": {
+    "name": "安田レイ",
+    "song": [
+      {
+        "name": "Best of my Love",
+        "singer": "安田レイ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "安田レイ - Best of my Love.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/安田レイ - Best of my Love.flac",
+            "size": 47035407
+          }
+        ]
+      },
+      {
+        "name": "Let It Snow",
+        "singer": "安田レイ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "安田レイ - Let It Snow.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/安田レイ - Let It Snow.mp3",
+            "size": 13099119
+          }
+        ]
+      },
+      {
+        "name": "One More Time feat.Matt Cab",
+        "singer": "安田レイ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "安田レイ - One More Time feat.Matt Cab.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/安田レイ - One More Time feat.Matt Cab.mp3",
+            "size": 10862549
+          }
+        ]
+      },
+      {
+        "name": "up to ME",
+        "singer": "安田レイ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "安田レイ - up to ME.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/安田レイ - up to ME.flac",
+            "size": 33325273
+          }
+        ]
+      }
+    ]
+  },
+  "奥華子": {
+    "name": "奥華子",
+    "song": [
+      {
+        "name": "キミの花",
+        "singer": "奥華子",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "奥華子 - キミの花.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/奥華子 - キミの花.flac",
+            "size": 31048564
+          }
+        ]
+      }
+    ]
+  },
+  "坂本真綾": {
+    "name": "坂本真綾",
+    "song": [
+      {
+        "name": "CLEAR",
+        "singer": "坂本真綾",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "坂本真綾 - CLEAR.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/坂本真綾 - CLEAR.flac",
+            "size": 32639473
+          }
+        ]
+      },
+      {
+        "name": "プラチナ",
+        "singer": "坂本真綾",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "坂本真綾 - プラチナ.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/坂本真綾 - プラチナ.flac",
+            "size": 31375680
+          }
+        ]
+      }
+    ]
+  },
+  "伴都美子": {
+    "name": "伴都美子",
+    "song": [
+      {
+        "name": "farewell",
+        "singer": "伴都美子",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "伴都美子 - farewell.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/伴都美子 - farewell.flac",
+            "size": 28010257
+          }
+        ]
+      }
+    ]
+  },
+  "浜崎あゆみ": {
+    "name": "浜崎あゆみ",
+    "song": [
+      {
+        "name": "Dearest",
+        "singer": "浜崎あゆみ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "浜崎あゆみ - Dearest.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/浜崎あゆみ - Dearest.flac",
+            "size": 38945523
+          }
+        ]
+      },
+      {
+        "name": "End roll ",
+        "singer": "浜崎あゆみ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "浜崎あゆみ - End roll (new vocal).flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/浜崎あゆみ - End roll (new vocal).flac",
+            "size": 33485630
+          }
+        ]
+      },
+      {
+        "name": "Love Song",
+        "singer": "浜崎あゆみ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "浜崎あゆみ - Love Song.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/浜崎あゆみ - Love Song.flac",
+            "size": 33310431
+          }
+        ]
+      },
+      {
+        "name": "MY ALL",
+        "singer": "浜崎あゆみ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "浜崎あゆみ - MY ALL.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/浜崎あゆみ - MY ALL.flac",
+            "size": 44131334
+          }
+        ]
+      }
+    ]
+  },
+  "北乃きい": {
+    "name": "北乃きい",
+    "song": [
+      {
+        "name": "風華恋",
+        "singer": "北乃きい",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "北乃きい - 風華恋.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/北乃きい - 風華恋.flac",
+            "size": 38420216
+          }
+        ]
+      }
+    ]
+  },
+  "貝田由里子": {
+    "name": "貝田由里子",
+    "song": [
+      {
+        "name": "L.A",
+        "singer": "貝田由里子",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "貝田由里子 - L.A.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/貝田由里子 - L.A.flac",
+            "size": 30721138
+          }
+        ]
+      }
+    ]
+  },
+  "彩音": {
+    "name": "彩音",
+    "song": [
+      {
+        "name": "punitive justice~千年の錯綜~",
+        "singer": "彩音",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "彩音 - punitive justice~千年の錯綜~.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/彩音 - punitive justice~千年の錯綜~.mp3",
+            "size": 12454725
+          }
+        ]
+      },
+      {
+        "name": "ただ流るるままに",
+        "singer": "彩音",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "彩音 - ただ流るるままに.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/彩音 - ただ流るるままに.mp3",
+            "size": 11605278
+          }
+        ]
+      }
+    ]
+  },
+  "倉木麻衣": {
+    "name": "倉木麻衣",
+    "song": [
+      {
+        "name": "風のららら",
+        "singer": "倉木麻衣",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "倉木麻衣 - 風のららら.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/倉木麻衣 - 風のららら.mp3",
+            "size": 10794834
+          }
+        ]
+      }
+    ]
+  },
+  "茶太": {
+    "name": "茶太",
+    "song": [
+      {
+        "name": "with you",
+        "singer": "茶太",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "茶太 - with you.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/茶太 - with you.flac",
+            "size": 30479492
+          }
+        ]
+      },
+      {
+        "name": "よつのは",
+        "singer": "茶太",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "茶太 - よつのは.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/茶太 - よつのは.flac",
+            "size": 36552577
+          }
+        ]
+      }
+    ]
+  },
+  "柴田淳": {
+    "name": "柴田淳",
+    "song": [
+      {
+        "name": "梦",
+        "singer": "柴田淳",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "柴田淳 - 梦.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/柴田淳 - 梦.mp3",
+            "size": 13318984
+          }
+        ]
+      }
+    ]
+  },
+  "陈冠蒲": {
+    "name": "陈冠蒲",
+    "song": [
+      {
+        "name": "太多",
+        "singer": "陈冠蒲",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "陈冠蒲 - 太多.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/陈冠蒲 - 太多.flac",
+            "size": 24821324
+          }
+        ]
+      }
+    ]
+  },
+  "陈慧琳": {
+    "name": "陈慧琳",
+    "song": [
+      {
+        "name": "今生你作伴",
+        "singer": "陈慧琳",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "陈慧琳 - 今生你作伴(国).ncm",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/陈慧琳 - 今生你作伴(国).ncm",
+            "size": 10949394
+          }
+        ]
+      }
+    ]
+  },
+  "陈致逸": {
+    "name": "陈致逸",
+    "song": [
+      {
+        "name": "帝皇再临",
+        "singer": "陈致逸",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "陈致逸 - 帝皇再临.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/陈致逸 - 帝皇再临.mp3",
+            "size": 3642784
+          }
+        ]
+      }
+    ]
+  },
+  "成龙": {
+    "name": "成龙",
+    "song": [
+      {
+        "name": "美丽的神话Ⅰ",
+        "singer": "成龙,金喜善",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "成龙,金喜善 - 美丽的神话Ⅰ.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/成龙,金喜善 - 美丽的神话Ⅰ.mp3",
+            "size": 11728791
+          }
+        ]
+      }
+    ]
+  },
+  "初音ミク": {
+    "name": "初音ミク",
+    "song": [
+      {
+        "name": "Miku",
+        "singer": "初音ミク,Anamanaguchi",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "初音ミク,Anamanaguchi - Miku.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/初音ミク,Anamanaguchi - Miku.flac",
+            "size": 29588815
+          }
+        ]
+      },
+      {
+        "name": "月光",
+        "singer": "初音ミク,てぃあら",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "初音ミク,てぃあら - 月光.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/初音ミク,てぃあら - 月光.flac",
+            "size": 32997723
+          }
+        ]
+      }
+    ]
+  },
+  "川瀬智子": {
+    "name": "川瀬智子",
+    "song": [
+      {
+        "name": "Pray",
+        "singer": "川瀬智子",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "川瀬智子 - Pray.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/川瀬智子 - Pray.mp3",
+            "size": 11415725
+          }
+        ]
+      }
+    ]
+  },
+  "川田まみ": {
+    "name": "川田まみ",
+    "song": [
+      {
+        "name": "Believe in the sky",
+        "singer": "川田まみ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "川田まみ - Believe in the sky.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/川田まみ - Believe in the sky.flac",
+            "size": 31637841
+          }
+        ]
+      },
+      {
+        "name": "Borderland",
+        "singer": "川田まみ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "川田まみ - Borderland.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/川田まみ - Borderland.flac",
+            "size": 29810056
+          }
+        ]
+      }
+    ]
+  },
+  "大黒摩季": {
+    "name": "大黒摩季",
+    "song": [
+      {
+        "name": "あなただけ見つめてる",
+        "singer": "大黒摩季",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "大黒摩季 - あなただけ見つめてる.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/大黒摩季 - あなただけ見つめてる.flac",
+            "size": 37772602
+          }
+        ]
+      }
+    ]
+  },
+  "大野爱果": {
+    "name": "大野爱果",
+    "song": [
+      {
+        "name": "Time after time ~花舞う街で~",
+        "singer": "大野爱果",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "大野爱果 - Time after time ~花舞う街で~.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/大野爱果 - Time after time ~花舞う街で~.mp3",
+            "size": 11136528
+          }
+        ]
+      }
+    ]
+  },
+  "大原さやか": {
+    "name": "大原さやか",
+    "song": [
+      {
+        "name": "チェイン",
+        "singer": "大原さやか",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "大原さやか - チェイン.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/大原さやか - チェイン.mp3",
+            "size": 12416601
+          }
+        ]
+      }
+    ]
+  },
+  "當山みれい": {
+    "name": "當山みれい",
+    "song": [
+      {
+        "name": "願い~あの頃のキミへ~",
+        "singer": "當山みれい",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "當山みれい - 願い~あの頃のキミへ~.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/當山みれい - 願い~あの頃のキミへ~.mp3",
+            "size": 13646210
+          }
+        ]
+      }
+    ]
+  },
+  "島みやえい子": {
+    "name": "島みやえい子",
+    "song": [
+      {
+        "name": "宇宙の花",
+        "singer": "島みやえい子",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "島みやえい子 - 宇宙の花.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/島みやえい子 - 宇宙の花.mp3",
+            "size": 15409809
+          }
+        ]
+      },
+      {
+        "name": "ひぐらしのなく頃に",
+        "singer": "島みやえい子",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "島みやえい子 - ひぐらしのなく頃に.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/島みやえい子 - ひぐらしのなく頃に.mp3",
+            "size": 11265795
+          }
+        ]
+      }
+    ]
+  },
+  "滴草由実": {
+    "name": "滴草由実",
+    "song": [
+      {
+        "name": "花篝り",
+        "singer": "滴草由実",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "滴草由実 - 花篝(はなかが)り.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/滴草由実 - 花篝(はなかが)り.mp3",
+            "size": 11842286
+          }
+        ]
+      },
+      {
+        "name": "GO YOUR OWN WAY",
+        "singer": "滴草由実",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "滴草由実 - GO YOUR OWN WAY.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/滴草由実 - GO YOUR OWN WAY.flac",
+            "size": 29350645
+          }
+        ]
+      }
+    ]
+  },
+  "第零交响师団": {
+    "name": "第零交响师団",
+    "song": [
+      {
+        "name": "Never Ending Night",
+        "singer": "第零交响师団",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "第零交响师団 - Never Ending Night.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/第零交响师団 - Never Ending Night.mp3",
+            "size": 14747609
+          }
+        ]
+      }
+    ]
+  },
+  "董贞": {
+    "name": "董贞",
+    "song": [
+      {
+        "name": "梦太晚",
+        "singer": "董贞",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "董贞 - 梦太晚.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/董贞 - 梦太晚.flac",
+            "size": 25966304
+          }
+        ]
+      },
+      {
+        "name": "相思引",
+        "singer": "董贞",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "董贞 - 相思引.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/董贞 - 相思引.mp3",
+            "size": 11287061
+          }
+        ]
+      }
+    ]
+  },
+  "杜婧荧": {
+    "name": "杜婧荧",
+    "song": [
+      {
+        "name": "雪",
+        "singer": "杜婧荧,王艺翔",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "杜婧荧,王艺翔 - 雪.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/杜婧荧,王艺翔 - 雪.mp3",
+            "size": 9104897
+          }
+        ]
+      }
+    ]
+  },
+  "多田葵": {
+    "name": "多田葵",
+    "song": [
+      {
+        "name": "灼け落ちない翼",
+        "singer": "多田葵",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "多田葵 - 灼け落ちない翼.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/多田葵 - 灼け落ちない翼.flac",
+            "size": 37385625
+          }
+        ]
+      }
+    ]
+  },
+  "発热巫女~ず": {
+    "name": "発热巫女~ず",
+    "song": [
+      {
+        "name": "フラグメンツ",
+        "singer": "発热巫女~ず",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "発热巫女~ず - フラグメンツ.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/発热巫女~ず - フラグメンツ.mp3",
+            "size": 8839704
+          }
+        ]
+      }
+    ]
+  },
+  "葛林": {
+    "name": "葛林",
+    "song": [
+      {
+        "name": "林中鸟",
+        "singer": "葛林",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "葛林 - 林中鸟.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/葛林 - 林中鸟.flac",
+            "size": 28278498
+          }
+        ]
+      }
+    ]
+  },
+  "宮崎歩": {
+    "name": "宮崎歩",
+    "song": [
+      {
+        "name": "brave heart -tri.Version-",
+        "singer": "宮崎歩",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "宮崎歩 - brave heart -tri.Version-.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/宮崎歩 - brave heart -tri.Version-.flac",
+            "size": 35369195
+          }
+        ]
+      },
+      {
+        "name": "Butter-Fly~tri.Version~",
+        "singer": "宮崎歩,前田愛,和田光司",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "宮崎歩,前田愛,和田光司 - Butter-Fly~tri.Version~.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/宮崎歩,前田愛,和田光司 - Butter-Fly~tri.Version~.mp3",
+            "size": 10528844
+          }
+        ]
+      }
+    ]
+  },
+  "骇物乐团": {
+    "name": "骇物乐团",
+    "song": [
+      {
+        "name": "I'll be the one",
+        "singer": "骇物乐团",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "骇物乐团 - I'll be the one.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/骇物乐团 - I'll be the one.mp3",
+            "size": 11931005
+          }
+        ]
+      }
+    ]
+  },
+  "和紗": {
+    "name": "和紗",
+    "song": [
+      {
+        "name": "君の瞳には私は映らない",
+        "singer": "和紗",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "和紗 - 君の瞳には私は映らない.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/和紗 - 君の瞳には私は映らない.mp3",
+            "size": 10538398
+          }
+        ]
+      }
+    ]
+  },
+  "和田薫": {
+    "name": "和田薫",
+    "song": [
+      {
+        "name": "悲运の巫女 桔梗",
+        "singer": "和田薫",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "和田薫 - 悲运の巫女 桔梗.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/和田薫 - 悲运の巫女 桔梗.mp3",
+            "size": 3214092
+          }
+        ]
+      },
+      {
+        "name": "慕情",
+        "singer": "和田薫",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "和田薫 - 慕情.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/和田薫 - 慕情.mp3",
+            "size": 3735693
+          }
+        ]
+      },
+      {
+        "name": "时代を超える想い1",
+        "singer": "和田薫",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "和田薫 - 时代を超える想い1.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/和田薫 - 时代を超える想い1.mp3",
+            "size": 2491429
+          }
+        ]
+      }
+    ]
+  },
+  "河野マリナ": {
+    "name": "河野マリナ",
+    "song": [
+      {
+        "name": "Weight of the World／壊レタ世界ノ歌",
+        "singer": "河野マリナ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "河野マリナ - Weight of the World／壊レタ世界ノ歌.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/河野マリナ - Weight of the World／壊レタ世界ノ歌.flac",
+            "size": 36727429
+          }
+        ]
+      }
+    ]
+  },
+  "黒崎真音": {
+    "name": "黒崎真音",
+    "song": [
+      {
+        "name": "X-encounter",
+        "singer": "黒崎真音",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "黒崎真音 - X-encounter.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/黒崎真音 - X-encounter.flac",
+            "size": 47072189
+          }
+        ]
+      }
+    ]
+  },
+  "黒石ひとみ": {
+    "name": "黒石ひとみ",
+    "song": [
+      {
+        "name": "僕は、鸟になる",
+        "singer": "黒石ひとみ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "黒石ひとみ - 僕は、鸟になる.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/黒石ひとみ - 僕は、鸟になる.mp3",
+            "size": 12833946
+          }
+        ]
+      },
+      {
+        "name": "If I were a Bird",
+        "singer": "黒石ひとみ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "黒石ひとみ - If I were a Bird.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/黒石ひとみ - If I were a Bird.mp3",
+            "size": 2972521
+          }
+        ]
+      },
+      {
+        "name": "Stories",
+        "singer": "黒石ひとみ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "黒石ひとみ - Stories.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/黒石ひとみ - Stories.flac",
+            "size": 61644542
+          }
+        ]
+      }
+    ]
+  },
+  "横山克": {
+    "name": "横山克",
+    "song": [
+      {
+        "name": "アゲイン",
+        "singer": "横山克",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "横山克 - アゲイン.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/横山克 - アゲイン.flac",
+            "size": 10767136
+          }
+        ]
+      }
+    ]
+  },
+  "宏実": {
+    "name": "宏実",
+    "song": [
+      {
+        "name": "Reason",
+        "singer": "宏実",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "宏実 - Reason.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/宏実 - Reason.mp3",
+            "size": 12896867
+          }
+        ]
+      }
+    ]
+  },
+  "胡歌": {
+    "name": "胡歌",
+    "song": [
+      {
+        "name": "六月的雨",
+        "singer": "胡歌",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "胡歌 - 六月的雨.ncm",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/胡歌 - 六月的雨.ncm",
+            "size": 9206031
+          }
+        ]
+      }
+    ]
+  },
+  "戸松遥": {
+    "name": "戸松遥",
+    "song": [
+      {
+        "name": "ひとり",
+        "singer": "戸松遥",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "戸松遥 - ひとり.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/戸松遥 - ひとり.flac",
+            "size": 29403077
+          }
+        ]
+      }
+    ]
+  },
+  "吉岡亜衣加": {
+    "name": "吉岡亜衣加",
+    "song": [
+      {
+        "name": "十六夜涙",
+        "singer": "吉岡亜衣加",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "吉岡亜衣加 - 十六夜涙.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/吉岡亜衣加 - 十六夜涙.mp3",
+            "size": 9894530
+          }
+        ]
+      }
+    ]
+  },
+  "諫山実生": {
+    "name": "諫山実生",
+    "song": [
+      {
+        "name": "プレイス・オブ・ピリオド",
+        "singer": "諫山実生",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "諫山実生 - プレイス・オブ・ピリオド.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/諫山実生 - プレイス・オブ・ピリオド.mp3",
+            "size": 12138178
+          }
+        ]
+      }
+    ]
+  },
+  "江城原创音乐团队": {
+    "name": "江城原创音乐团队",
+    "song": [
+      {
+        "name": "不觉晴光老",
+        "singer": "江城原创音乐团队",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "江城原创音乐团队 - 不觉晴光老.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/江城原创音乐团队 - 不觉晴光老.mp3",
+            "size": 9506257
+          }
+        ]
+      }
+    ]
+  },
+  "今井麻美": {
+    "name": "今井麻美",
+    "song": [
+      {
+        "name": "Shangri-La",
+        "singer": "今井麻美",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "今井麻美 - Shangri-La.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/今井麻美 - Shangri-La.flac",
+            "size": 35883682
+          }
+        ]
+      }
+    ]
+  },
+  "今井ちひろ": {
+    "name": "今井ちひろ",
+    "song": [
+      {
+        "name": "Forever Blue",
+        "singer": "今井ちひろ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "今井ちひろ - Forever Blue.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/今井ちひろ - Forever Blue.mp3",
+            "size": 4319298
+          }
+        ]
+      }
+    ]
+  },
+  "井上ジョー": {
+    "name": "井上ジョー",
+    "song": [
+      {
+        "name": "CLOSER",
+        "singer": "井上ジョー",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "井上ジョー - CLOSER.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/井上ジョー - CLOSER.mp3",
+            "size": 8481479
+          }
+        ]
+      }
+    ]
+  },
+  "鏡音レン": {
+    "name": "鏡音レン",
+    "song": [
+      {
+        "name": "PON PON PON",
+        "singer": "鏡音レン",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "鏡音レン - PON PON PON.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/鏡音レン - PON PON PON.mp3",
+            "size": 10105661
+          }
+        ]
+      }
+    ]
+  },
+  "久保田利伸": {
+    "name": "久保田利伸",
+    "song": [
+      {
+        "name": "LA・LA・LA Love Song",
+        "singer": "久保田利伸",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "久保田利伸 - LA・LA・LA Love Song.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/久保田利伸 - LA・LA・LA Love Song.mp3",
+            "size": 11786306
+          }
+        ]
+      }
+    ]
+  },
+  "栞菜智世": {
+    "name": "栞菜智世",
+    "song": [
+      {
+        "name": "Blue Star",
+        "singer": "栞菜智世",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "栞菜智世 - Blue Star.ncm",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/栞菜智世 - Blue Star.ncm",
+            "size": 13765916
+          }
+        ]
+      }
+    ]
+  },
+  "空气凝": {
+    "name": "空气凝",
+    "song": [
+      {
+        "name": "孙尚香",
+        "singer": "空气凝,洛天依,乐正绫",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "空气凝、洛天依、乐正绫 - 孙尚香.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/空气凝、洛天依、乐正绫 - 孙尚香.mp3",
+            "size": 8364302
+          }
+        ]
+      }
+    ]
+  },
+  "藍": {
+    "name": "藍",
+    "song": [
+      {
+        "name": "ららる",
+        "singer": "藍",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "藍 - ららる.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/藍 - ららる.mp3",
+            "size": 8306115
+          }
+        ]
+      }
+    ]
+  },
+  "乐正绫": {
+    "name": "乐正绫",
+    "song": [
+      {
+        "name": "玉人歌",
+        "singer": "乐正绫,洛天依",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "乐正绫、洛天依 - 玉人歌.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/乐正绫、洛天依 - 玉人歌.flac",
+            "size": 42832718
+          }
+        ]
+      }
+    ]
+  },
+  "李殊": {
+    "name": "李殊",
+    "song": [
+      {
+        "name": "人间情多",
+        "singer": "李殊",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "李殊 - 人间情多.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/李殊 - 人间情多.mp3",
+            "size": 9279464
+          }
+        ]
+      },
+      {
+        "name": "原谅我过去不懂",
+        "singer": "李殊",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "李殊 - 原谅我过去不懂.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/李殊 - 原谅我过去不懂.mp3",
+            "size": 4056855
+          }
+        ]
+      }
+    ]
+  },
+  "李玟": {
+    "name": "李玟",
+    "song": [
+      {
+        "name": "想你的三百六十五天",
+        "singer": "李玟",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "李玟 - 想你的三百六十五天.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/李玟 - 想你的三百六十五天.flac",
+            "size": 36396614
+          }
+        ]
+      }
+    ]
+  },
+  "林原めぐみ": {
+    "name": "林原めぐみ",
+    "song": [
+      {
+        "name": "Give a reason",
+        "singer": "林原めぐみ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "林原めぐみ - Give a reason.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/林原めぐみ - Give a reason.flac",
+            "size": 34339962
+          }
+        ]
+      },
+      {
+        "name": "Northern lights",
+        "singer": "林原めぐみ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "林原めぐみ - Northern lights.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/林原めぐみ - Northern lights.flac",
+            "size": 28684121
+          }
+        ]
+      },
+      {
+        "name": "Over Soul",
+        "singer": "林原めぐみ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "林原めぐみ - Over Soul.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/林原めぐみ - Over Soul.flac",
+            "size": 31705906
+          }
+        ]
+      }
+    ]
+  },
+  "林ゆうき": {
+    "name": "林ゆうき",
+    "song": [
+      {
+        "name": "cocoon",
+        "singer": "林ゆうき",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "林ゆうき - cocoon.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/林ゆうき - cocoon.flac",
+            "size": 30003758
+          }
+        ]
+      }
+    ]
+  },
+  "鈴木みのり": {
+    "name": "鈴木みのり",
+    "song": [
+      {
+        "name": "GIRAFFE BLUES ~Freyja Solo~",
+        "singer": "鈴木みのり",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "鈴木みのり - GIRAFFE BLUES ~Freyja Solo~.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/鈴木みのり - GIRAFFE BLUES ~Freyja Solo~.flac",
+            "size": 40400105
+          }
+        ]
+      }
+    ]
+  },
+  "綾瀬理恵": {
+    "name": "綾瀬理恵",
+    "song": [
+      {
+        "name": "形のない花",
+        "singer": "綾瀬理恵",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "綾瀬理恵 - 形のない花.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/綾瀬理恵 - 形のない花.flac",
+            "size": 31425944
+          }
+        ]
+      }
+    ]
+  },
+  "刘涛": {
+    "name": "刘涛",
+    "song": [
+      {
+        "name": "爱上你",
+        "singer": "刘涛",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "刘涛 - 爱上你.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/刘涛 - 爱上你.mp3",
+            "size": 4133755
+          }
+        ]
+      }
+    ]
+  },
+  "滝田樹里": {
+    "name": "滝田樹里",
+    "song": [
+      {
+        "name": "ありがとう・・・",
+        "singer": "滝田樹里",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "滝田樹里 - ありがとう・・・.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/滝田樹里 - ありがとう・・・.flac",
+            "size": 28418424
+          }
+        ]
+      }
+    ]
+  },
+  "鹿乃": {
+    "name": "鹿乃",
+    "song": [
+      {
+        "name": "intention",
+        "singer": "鹿乃",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "鹿乃 - intention.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/鹿乃 - intention.flac",
+            "size": 32450675
+          }
+        ]
+      },
+      {
+        "name": "センチメンタルな愛慕心",
+        "singer": "鹿乃",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "鹿乃 - センチメンタルな愛慕心.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/鹿乃 - センチメンタルな愛慕心.mp3",
+            "size": 8078796
+          }
+        ]
+      }
+    ]
+  },
+  "露崎春女": {
+    "name": "露崎春女",
+    "song": [
+      {
+        "name": "HARUKAZE",
+        "singer": "露崎春女",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "露崎春女 - HARUKAZE.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/露崎春女 - HARUKAZE.mp3",
+            "size": 13146944
+          }
+        ]
+      }
+    ]
+  },
+  "鷺巣詩郎": {
+    "name": "鷺巣詩郎",
+    "song": [
+      {
+        "name": "Stand Up Be Strong",
+        "singer": "鷺巣詩郎",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "鷺巣詩郎 - Stand Up Be Strong(Part I).mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/鷺巣詩郎 - Stand Up Be Strong(Part I).mp3",
+            "size": 5967475
+          }
+        ]
+      }
+    ]
+  },
+  "麻枝准": {
+    "name": "麻枝准",
+    "song": [
+      {
+        "name": "願いが叶う場所II",
+        "singer": "麻枝准",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "麻枝准 - 願いが叶う場所II.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/麻枝准 - 願いが叶う場所II.flac",
+            "size": 26658507
+          }
+        ]
+      },
+      {
+        "name": "渚",
+        "singer": "麻枝准",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "麻枝准 - 渚.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/麻枝准 - 渚.flac",
+            "size": 21416116
+          }
+        ]
+      }
+    ]
+  },
+  "麦振鸿": {
+    "name": "麦振鸿",
+    "song": [
+      {
+        "name": "莫失莫忘",
+        "singer": "麦振鸿",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "麦振鸿 - 莫失莫忘.ncm",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/麦振鸿 - 莫失莫忘.ncm",
+            "size": 4865298
+          }
+        ]
+      }
+    ]
+  },
+  "毛阿敏": {
+    "name": "毛阿敏",
+    "song": [
+      {
+        "name": "相思",
+        "singer": "毛阿敏",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "毛阿敏 - 相思.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/毛阿敏 - 相思.mp3",
+            "size": 7369004
+          }
+        ]
+      }
+    ]
+  },
+  "茅野愛衣": {
+    "name": "茅野愛衣",
+    "song": [
+      {
+        "name": "オラシオン",
+        "singer": "茅野愛衣",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "茅野愛衣 - オラシオン.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/茅野愛衣 - オラシオン.flac",
+            "size": 36339155
+          }
+        ]
+      }
+    ]
+  },
+  "孟萌": {
+    "name": "孟萌",
+    "song": [
+      {
+        "name": "扶桑树",
+        "singer": "孟萌,刘泓君",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "孟萌,刘泓君 - 扶桑树.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/孟萌,刘泓君 - 扶桑树.mp3",
+            "size": 13731117
+          }
+        ]
+      }
+    ]
+  },
+  "明坂聡美": {
+    "name": "明坂聡美",
+    "song": [
+      {
+        "name": "青と黄色のあまのじゃく",
+        "singer": "明坂聡美,大久保瑠美",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "明坂聡美,大久保瑠美 - 青と黄色のあまのじゃく.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/明坂聡美,大久保瑠美 - 青と黄色のあまのじゃく.mp3",
+            "size": 11842070
+          }
+        ]
+      }
+    ]
+  },
+  "冥月": {
+    "name": "冥月",
+    "song": [
+      {
+        "name": "若当来世",
+        "singer": "冥月,Mario",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "冥月,Mario - 若当来世.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/冥月,Mario - 若当来世.mp3",
+            "size": 9464499
+          }
+        ]
+      }
+    ]
+  },
+  "牧野由依": {
+    "name": "牧野由依",
+    "song": [
+      {
+        "name": "Love∞Destiny ",
+        "singer": "牧野由依,渕上舞,津田美波",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "牧野由依,渕上舞,津田美波 - Love∞Destiny (M@STER VERSION).mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/牧野由依,渕上舞,津田美波 - Love∞Destiny (M@STER VERSION).mp3",
+            "size": 9677335
+          }
+        ]
+      }
+    ]
+  },
+  "南條愛乃": {
+    "name": "南條愛乃",
+    "song": [
+      {
+        "name": "雪の華",
+        "singer": "南條愛乃",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "南條愛乃 - 雪の華.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/南條愛乃 - 雪の華.flac",
+            "size": 38482542
+          }
+        ]
+      }
+    ]
+  },
+  "南征北战NZBZ": {
+    "name": "南征北战NZBZ",
+    "song": [
+      {
+        "name": "我的天空",
+        "singer": "南征北战NZBZ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "南征北战NZBZ - 我的天空.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/南征北战NZBZ - 我的天空.mp3",
+            "size": 9366509
+          }
+        ]
+      }
+    ]
+  },
+  "内山夕実": {
+    "name": "内山夕実",
+    "song": [
+      {
+        "name": "通り雨drop",
+        "singer": "内山夕実",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "内山夕実 - 通り雨drop.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/内山夕実 - 通り雨drop.mp3",
+            "size": 9042916
+          }
+        ]
+      }
+    ]
+  },
+  "能登麻美子": {
+    "name": "能登麻美子",
+    "song": [
+      {
+        "name": "あいぞめ",
+        "singer": "能登麻美子",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "能登麻美子 - あいぞめ.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/能登麻美子 - あいぞめ.flac",
+            "size": 30952348
+          }
+        ]
+      }
+    ]
+  },
+  "牛尾憲輔": {
+    "name": "牛尾憲輔",
+    "song": [
+      {
+        "name": "D.V.M.N.  -Theme From ＂DEVILMAN crybaby＂-",
+        "singer": "牛尾憲輔",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "牛尾憲輔 - D.V.M.N.  -Theme From ＂DEVILMAN crybaby＂-.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/牛尾憲輔 - D.V.M.N.  -Theme From ＂DEVILMAN crybaby＂-.flac",
+            "size": 25841714
+          }
+        ]
+      },
+      {
+        "name": "lit",
+        "singer": "牛尾憲輔",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "牛尾憲輔 - lit(var).flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/牛尾憲輔 - lit(var).flac",
+            "size": 10405585
+          }
+        ]
+      },
+      {
+        "name": "slt",
+        "singer": "牛尾憲輔",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "牛尾憲輔 - slt.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/牛尾憲輔 - slt.flac",
+            "size": 10502883
+          }
+        ]
+      }
+    ]
+  },
+  "彭青": {
+    "name": "彭青",
+    "song": [
+      {
+        "name": "我只能爱你",
+        "singer": "彭青",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "彭青 - 我只能爱你.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/彭青 - 我只能爱你.mp3",
+            "size": 4648374
+          }
+        ]
+      }
+    ]
+  },
+  "平原綾香": {
+    "name": "平原綾香",
+    "song": [
+      {
+        "name": "はじまりの风",
+        "singer": "平原綾香",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "平原綾香 - はじまりの风(On Air Ver.).mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/平原綾香 - はじまりの风(On Air Ver.).mp3",
+            "size": 4517888
+          }
+        ]
+      }
+    ]
+  },
+  "前山田健一": {
+    "name": "前山田健一",
+    "song": [
+      {
+        "name": "23時40分 feat.Base Ball Bear",
+        "singer": "前山田健一",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "前山田健一 - 23時40分 feat.Base Ball Bear.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/前山田健一 - 23時40分 feat.Base Ball Bear.flac",
+            "size": 31818583
+          }
+        ]
+      }
+    ]
+  },
+  "前田愛": {
+    "name": "前田愛",
+    "song": [
+      {
+        "name": "I wish ~tri.Version~",
+        "singer": "前田愛",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "前田愛 - I wish ~tri.Version~.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/前田愛 - I wish ~tri.Version~.flac",
+            "size": 30645301
+          }
+        ]
+      },
+      {
+        "name": "keep on",
+        "singer": "前田愛",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "前田愛 - keep on.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/前田愛 - keep on.flac",
+            "size": 34445644
+          }
+        ]
+      }
+    ]
+  },
+  "秋赤音": {
+    "name": "秋赤音",
+    "song": [
+      {
+        "name": "Out Of Eden",
+        "singer": "秋赤音",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "秋赤音 - Out Of Eden.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/秋赤音 - Out Of Eden.mp3",
+            "size": 13004478
+          }
+        ]
+      }
+    ]
+  },
+  "任然": {
+    "name": "任然",
+    "song": [
+      {
+        "name": "山外小楼夜听雨",
+        "singer": "任然",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "任然 - 山外小楼夜听雨.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/任然 - 山外小楼夜听雨.flac",
+            "size": 29533343
+          }
+        ]
+      }
+    ]
+  },
+  "日向めぐみ": {
+    "name": "日向めぐみ",
+    "song": [
+      {
+        "name": "Catch You Catch Me",
+        "singer": "日向めぐみ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "日向めぐみ - Catch You Catch Me.ncm",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/日向めぐみ - Catch You Catch Me.ncm",
+            "size": 29635505
+          }
+        ]
+      }
+    ]
+  },
+  "日之内エミ": {
+    "name": "日之内エミ",
+    "song": [
+      {
+        "name": "卒业 -Congratulations- feat. Lotus Juice",
+        "singer": "日之内エミ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "日之内エミ - 卒业 -Congratulations- feat. Lotus Juice.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/日之内エミ - 卒业 -Congratulations- feat. Lotus Juice.flac",
+            "size": 36443723
+          }
+        ]
+      }
+    ]
+  },
+  "入野自由": {
+    "name": "入野自由",
+    "song": [
+      {
+        "name": "ユメノツバサ",
+        "singer": "入野自由,牧野由依",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "入野自由,牧野由依 - ユメノツバサ(Duet Ver.).mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/入野自由,牧野由依 - ユメノツバサ(Duet Ver.).mp3",
+            "size": 6726065
+          }
+        ]
+      }
+    ]
+  },
+  "三浦サリー": {
+    "name": "三浦サリー",
+    "song": [
+      {
+        "name": "セツナイのは…",
+        "singer": "三浦サリー",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "三浦サリー - セツナイのは….mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/三浦サリー - セツナイのは….mp3",
+            "size": 10386179
+          }
+        ]
+      },
+      {
+        "name": "会いたくて…",
+        "singer": "三浦サリー,＼JOYSTICKK",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "三浦サリー,＼JOYSTICKK - 会いたくて….mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/三浦サリー,＼JOYSTICKK - 会いたくて….mp3",
+            "size": 7563005
+          }
+        ]
+      }
+    ]
+  },
+  "三重野瞳": {
+    "name": "三重野瞳",
+    "song": [
+      {
+        "name": "ひとつのハートで",
+        "singer": "三重野瞳",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "三重野瞳 - ひとつのハートで.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/三重野瞳 - ひとつのハートで.mp3",
+            "size": 10061868
+          }
+        ]
+      }
+    ]
+  },
+  "森永真由美": {
+    "name": "森永真由美",
+    "song": [
+      {
+        "name": "華鳥風月",
+        "singer": "森永真由美",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "森永真由美 - 華鳥風月.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/森永真由美 - 華鳥風月.flac",
+            "size": 45496910
+          }
+        ]
+      },
+      {
+        "name": "Mermaid girl ",
+        "singer": "森永真由美",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "森永真由美 - Mermaid girl (Extended RRver.).flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/森永真由美 - Mermaid girl (Extended RRver.).flac",
+            "size": 27772667
+          }
+        ]
+      }
+    ]
+  },
+  "上原れな": {
+    "name": "上原れな",
+    "song": [
+      {
+        "name": "After All ～綴る想い～",
+        "singer": "上原れな",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "上原れな - After All ～綴る想い～.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/上原れな - After All ～綴る想い～.flac",
+            "size": 38953095
+          }
+        ]
+      }
+    ]
+  },
+  "神津裕之": {
+    "name": "神津裕之",
+    "song": [
+      {
+        "name": "Luv Letter",
+        "singer": "神津裕之",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "神津裕之 - Luv Letter.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/神津裕之 - Luv Letter.flac",
+            "size": 19306051
+          }
+        ]
+      }
+    ]
+  },
+  "榊原ゆい": {
+    "name": "榊原ゆい",
+    "song": [
+      {
+        "name": "Miss. Brand-new day",
+        "singer": "榊原ゆい",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "榊原ゆい - Miss. Brand-new day.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/榊原ゆい - Miss. Brand-new day.mp3",
+            "size": 12097986
+          }
+        ]
+      }
+    ]
+  },
+  "詩音": {
+    "name": "詩音",
+    "song": [
+      {
+        "name": "Re：ナミダボシ feat. CLIFF EDGE",
+        "singer": "詩音",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "詩音 - Re：ナミダボシ feat. CLIFF EDGE.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/詩音 - Re：ナミダボシ feat. CLIFF EDGE.mp3",
+            "size": 13187640
+          }
+        ]
+      }
+    ]
+  },
+  "詩月カオリ": {
+    "name": "詩月カオリ",
+    "song": [
+      {
+        "name": "君がくれたコトバ",
+        "singer": "詩月カオリ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "詩月カオリ - 君がくれたコトバ.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/詩月カオリ - 君がくれたコトバ.flac",
+            "size": 36953630
+          }
+        ]
+      },
+      {
+        "name": "A STARRY NIGHT 〜僕らをつなぐ光〜",
+        "singer": "詩月カオリ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "詩月カオリ - A STARRY NIGHT 〜僕らをつなぐ光〜.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/詩月カオリ - A STARRY NIGHT 〜僕らをつなぐ光〜.mp3",
+            "size": 12639669
+          }
+        ]
+      },
+      {
+        "name": "Hold on me　~恋の魔法~",
+        "singer": "詩月カオリ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "詩月カオリ - Hold on me　~恋の魔法~.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/詩月カオリ - Hold on me　~恋の魔法~.mp3",
+            "size": 9759050
+          }
+        ]
+      }
+    ]
+  },
+  "石川智晶": {
+    "name": "石川智晶",
+    "song": [
+      {
+        "name": "アンインストール",
+        "singer": "石川智晶",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "石川智晶 - アンインストール(テレビアニメ＂ぼくらの＂Op).mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/石川智晶 - アンインストール(テレビアニメ＂ぼくらの＂Op).mp3",
+            "size": 11679612
+          }
+        ]
+      }
+    ]
+  },
+  "霜月はるか": {
+    "name": "霜月はるか",
+    "song": [
+      {
+        "name": "EXEC_FLIP_FUSIONSPHERE／",
+        "singer": "霜月はるか",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "霜月はるか - EXEC_FLIP_FUSIONSPHERE／.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/霜月はるか - EXEC_FLIP_FUSIONSPHERE／.flac",
+            "size": 37452723
+          }
+        ]
+      },
+      {
+        "name": "EXEC_LINCA／",
+        "singer": "霜月はるか",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "霜月はるか - EXEC_LINCA／.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/霜月はるか - EXEC_LINCA／.flac",
+            "size": 29895781
+          }
+        ]
+      }
+    ]
+  },
+  "水樹奈々": {
+    "name": "水樹奈々",
+    "song": [
+      {
+        "name": "迷宮バタフライ",
+        "singer": "水樹奈々",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "水樹奈々 - 迷宮バタフライ.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/水樹奈々 - 迷宮バタフライ.mp3",
+            "size": 12328319
+          }
+        ]
+      },
+      {
+        "name": "BLACK DIAMOND",
+        "singer": "水樹奈々",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "水樹奈々 - BLACK DIAMOND(メジャー・バージョン).mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/水樹奈々 - BLACK DIAMOND(メジャー・バージョン).mp3",
+            "size": 9242165
+          }
+        ]
+      },
+      {
+        "name": "SOUND OF DESTINY",
+        "singer": "水樹奈々",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "水樹奈々 - SOUND OF DESTINY.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/水樹奈々 - SOUND OF DESTINY.flac",
+            "size": 39038313
+          }
+        ]
+      },
+      {
+        "name": "永遠語り～El Ragna～",
+        "singer": "水樹奈々,堀江由衣",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "水樹奈々,堀江由衣 - 永遠語り～El Ragna～.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/水樹奈々,堀江由衣 - 永遠語り～El Ragna～.flac",
+            "size": 33617107
+          }
+        ]
+      },
+      {
+        "name": "Blue Moon",
+        "singer": "水樹奈々,ほしな歌呗",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "水樹奈々,ほしな歌呗 - Blue Moon.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/水樹奈々,ほしな歌呗 - Blue Moon.mp3",
+            "size": 10462130
+          }
+        ]
+      }
+    ]
+  },
+  "水野佐彩": {
+    "name": "水野佐彩",
+    "song": [
+      {
+        "name": "My Secret ",
+        "singer": "水野佐彩",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "水野佐彩 - My Secret (TV size).mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/水野佐彩 - My Secret (TV size).mp3",
+            "size": 3768015
+          }
+        ]
+      }
+    ]
+  },
+  "松下優也": {
+    "name": "松下優也",
+    "song": [
+      {
+        "name": "first snow",
+        "singer": "松下優也",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "松下優也 - first snow.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/松下優也 - first snow.mp3",
+            "size": 12906158
+          }
+        ]
+      }
+    ]
+  },
+  "松たか子": {
+    "name": "松たか子",
+    "song": [
+      {
+        "name": "花のように",
+        "singer": "松たか子",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "松たか子 - 花のように.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/松たか子 - 花のように.mp3",
+            "size": 11146317
+          }
+        ]
+      },
+      {
+        "name": "梦のしずく",
+        "singer": "松たか子",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "松たか子 - 梦のしずく.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/松たか子 - 梦のしずく.mp3",
+            "size": 12272055
+          }
+        ]
+      }
+    ]
+  },
+  "孙燕姿": {
+    "name": "孙燕姿",
+    "song": [
+      {
+        "name": "Tonight, I Feel Close To You",
+        "singer": "孙燕姿,倉木麻衣",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "孙燕姿,倉木麻衣 - Tonight, I Feel Close To You.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/孙燕姿,倉木麻衣 - Tonight, I Feel Close To You.mp3",
+            "size": 10199928
+          }
+        ]
+      }
+    ]
+  },
+  "泰仁": {
+    "name": "泰仁",
+    "song": [
+      {
+        "name": "그 남자의 거짓말",
+        "singer": "泰仁",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "泰仁 - 그 남자의 거짓말.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/泰仁 - 그 남자의 거짓말.mp3",
+            "size": 5014793
+          }
+        ]
+      }
+    ]
+  },
+  "汤子星": {
+    "name": "汤子星",
+    "song": [
+      {
+        "name": "梦在燃烧",
+        "singer": "汤子星",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "汤子星 - 梦在燃烧.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/汤子星 - 梦在燃烧.mp3",
+            "size": 3606351
+          }
+        ]
+      }
+    ]
+  },
+  "唐沢美帆": {
+    "name": "唐沢美帆",
+    "song": [
+      {
+        "name": "Way ｔo Love",
+        "singer": "唐沢美帆",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "唐沢美帆 - Way ｔo Love.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/唐沢美帆 - Way ｔo Love.flac",
+            "size": 36419015
+          }
+        ]
+      }
+    ]
+  },
+  "藤田麻衣子": {
+    "name": "藤田麻衣子",
+    "song": [
+      {
+        "name": "恋煩い",
+        "singer": "藤田麻衣子",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "藤田麻衣子 - 恋煩い.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/藤田麻衣子 - 恋煩い.mp3",
+            "size": 12022014
+          }
+        ]
+      },
+      {
+        "name": "駆け引き",
+        "singer": "藤田麻衣子",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "藤田麻衣子 - 駆け引き.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/藤田麻衣子 - 駆け引き.mp3",
+            "size": 11240829
+          }
+        ]
+      },
+      {
+        "name": "ねぇ",
+        "singer": "藤田麻衣子",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "藤田麻衣子 - ねぇ.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/藤田麻衣子 - ねぇ.mp3",
+            "size": 11551629
+          }
+        ]
+      }
+    ]
+  },
+  "天野月": {
+    "name": "天野月",
+    "song": [
+      {
+        "name": "蝶",
+        "singer": "天野月",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "天野月 - 蝶.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/天野月 - 蝶.flac",
+            "size": 39145929
+          }
+        ]
+      }
+    ]
+  },
+  "桐谷蝶々": {
+    "name": "桐谷蝶々",
+    "song": [
+      {
+        "name": "初恋バタフライ",
+        "singer": "桐谷蝶々",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "桐谷蝶々 - 初恋バタフライ.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/桐谷蝶々 - 初恋バタフライ.mp3",
+            "size": 12183456
+          }
+        ]
+      }
+    ]
+  },
+  "豚乙女": {
+    "name": "豚乙女",
+    "song": [
+      {
+        "name": "非科学的表裏一体",
+        "singer": "豚乙女",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "豚乙女 - 非科学的表裏一体.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/豚乙女 - 非科学的表裏一体.mp3",
+            "size": 11174726
+          }
+        ]
+      },
+      {
+        "name": "うたかた",
+        "singer": "豚乙女",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "豚乙女 - うたかた.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/豚乙女 - うたかた.mp3",
+            "size": 6584556
+          }
+        ]
+      }
+    ]
+  },
+  "梶浦由記": {
+    "name": "梶浦由記",
+    "song": [
+      {
+        "name": "Confidence",
+        "singer": "梶浦由記",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "梶浦由記 - Confidence.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/梶浦由記 - Confidence.flac",
+            "size": 25600875
+          }
+        ]
+      },
+      {
+        "name": "if you are my love",
+        "singer": "梶浦由記",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "梶浦由記 - if you are my love.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/梶浦由記 - if you are my love.mp3",
+            "size": 6468852
+          }
+        ]
+      },
+      {
+        "name": "Pandora hearts",
+        "singer": "梶浦由記",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "梶浦由記 - Pandora hearts.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/梶浦由記 - Pandora hearts.mp3",
+            "size": 3365036
+          }
+        ]
+      },
+      {
+        "name": "tsubasa",
+        "singer": "梶浦由記",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "梶浦由記 - tsubasa.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/梶浦由記 - tsubasa.mp3",
+            "size": 11463270
+          }
+        ]
+      }
+    ]
+  },
+  "為岡そのみ": {
+    "name": "為岡そのみ",
+    "song": [
+      {
+        "name": "I wanna know your feelin'",
+        "singer": "為岡そのみ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "為岡そのみ - I wanna know your feelin'.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/為岡そのみ - I wanna know your feelin'.mp3",
+            "size": 10905691
+          }
+        ]
+      }
+    ]
+  },
+  "魏小涵": {
+    "name": "魏小涵",
+    "song": [
+      {
+        "name": "易水两岸",
+        "singer": "魏小涵",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "魏小涵 - 易水两岸.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/魏小涵 - 易水两岸.flac",
+            "size": 3931926
+          }
+        ]
+      }
+    ]
+  },
+  "吴炜": {
+    "name": "吴炜",
+    "song": [
+      {
+        "name": "川流不息",
+        "singer": "吴炜",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "吴炜 - 川流不息.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/吴炜 - 川流不息.mp3",
+            "size": 6156916
+          }
+        ]
+      }
+    ]
+  },
+  "吴雨霏": {
+    "name": "吴雨霏",
+    "song": [
+      {
+        "name": "生生世世爱",
+        "singer": "吴雨霏",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "吴雨霏 - 生生世世爱.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/吴雨霏 - 生生世世爱.flac",
+            "size": 35358701
+          }
+        ]
+      }
+    ]
+  },
+  "武川アイ": {
+    "name": "武川アイ",
+    "song": [
+      {
+        "name": "遠い道の先で",
+        "singer": "武川アイ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "武川アイ - 遠い道の先で.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/武川アイ - 遠い道の先で.flac",
+            "size": 26633220
+          }
+        ]
+      }
+    ]
+  },
+  "西川貴教": {
+    "name": "西川貴教",
+    "song": [
+      {
+        "name": "INVOKE",
+        "singer": "西川貴教",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "西川貴教 - INVOKE.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/西川貴教 - INVOKE.mp3",
+            "size": 10785376
+          }
+        ]
+      },
+      {
+        "name": "Meteor‐ミーティア‐",
+        "singer": "西川貴教",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "西川貴教 - Meteor‐ミーティア‐.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/西川貴教 - Meteor‐ミーティア‐.mp3",
+            "size": 10463561
+          }
+        ]
+      }
+    ]
+  },
+  "西野カナ": {
+    "name": "西野カナ",
+    "song": [
+      {
+        "name": "会いたくて 会いたくて",
+        "singer": "西野カナ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "西野カナ - 会いたくて 会いたくて.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/西野カナ - 会いたくて 会いたくて.mp3",
+            "size": 11490026
+          }
+        ]
+      },
+      {
+        "name": "if",
+        "singer": "西野カナ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "西野カナ - if.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/西野カナ - if.mp3",
+            "size": 11343234
+          }
+        ]
+      },
+      {
+        "name": "No.1",
+        "singer": "西野カナ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "西野カナ - No.1.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/西野カナ - No.1.flac",
+            "size": 34045245
+          }
+        ]
+      }
+    ]
+  },
+  "向日葵": {
+    "name": "向日葵",
+    "song": [
+      {
+        "name": "蛍",
+        "singer": "向日葵",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "向日葵 - 蛍.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/向日葵 - 蛍.mp3",
+            "size": 7266294
+          }
+        ]
+      }
+    ]
+  },
+  "小魂": {
+    "name": "小魂",
+    "song": [
+      {
+        "name": "花满楼",
+        "singer": "小魂",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "小魂 - 花满楼.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/小魂 - 花满楼.mp3",
+            "size": 11799294
+          }
+        ]
+      }
+    ]
+  },
+  "小林未郁": {
+    "name": "小林未郁",
+    "song": [
+      {
+        "name": "βίος ＜MK+nZk Version＞",
+        "singer": "小林未郁",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "小林未郁 - βίος ＜MK+nZk Version＞.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/小林未郁 - βίος ＜MK+nZk Version＞.flac",
+            "size": 38066399
+          }
+        ]
+      },
+      {
+        "name": "βίος",
+        "singer": "小林未郁",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "小林未郁 - βίος.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/小林未郁 - βίος.flac",
+            "size": 36785064
+          }
+        ]
+      }
+    ]
+  },
+  "小木曽雪菜": {
+    "name": "小木曽雪菜",
+    "song": [
+      {
+        "name": "届かない恋 Live at Campus Fes",
+        "singer": "小木曽雪菜",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "小木曽雪菜 - 届かない恋 Live at Campus Fes(TV anime ver.).flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/小木曽雪菜 - 届かない恋 Live at Campus Fes(TV anime ver.).flac",
+            "size": 38618779
+          }
+        ]
+      },
+      {
+        "name": "夢想歌",
+        "singer": "小木曽雪菜",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "小木曽雪菜 - 夢想歌.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/小木曽雪菜 - 夢想歌.flac",
+            "size": 32335722
+          }
+        ]
+      },
+      {
+        "name": "深愛",
+        "singer": "小木曽雪菜",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "小木曽雪菜 - 深愛.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/小木曽雪菜 - 深愛.mp3",
+            "size": 12335926
+          }
+        ]
+      },
+      {
+        "name": "時の魔法",
+        "singer": "小木曽雪菜",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "小木曽雪菜 - 時の魔法.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/小木曽雪菜 - 時の魔法.flac",
+            "size": 37525818
+          }
+        ]
+      },
+      {
+        "name": "舞い落ちる雪のように",
+        "singer": "小木曽雪菜",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "小木曽雪菜 - 舞い落ちる雪のように.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/小木曽雪菜 - 舞い落ちる雪のように.flac",
+            "size": 33215653
+          }
+        ]
+      },
+      {
+        "name": "あなたを想いたい",
+        "singer": "小木曽雪菜",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "小木曽雪菜 - あなたを想いたい.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/小木曽雪菜 - あなたを想いたい.flac",
+            "size": 32717675
+          }
+        ]
+      },
+      {
+        "name": "White Love",
+        "singer": "小木曽雪菜,津田朱里",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "小木曽雪菜,津田朱里 - White Love.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/小木曽雪菜,津田朱里 - White Love.flac",
+            "size": 42753023
+          }
+        ]
+      }
+    ]
+  },
+  "小松未可子": {
+    "name": "小松未可子",
+    "song": [
+      {
+        "name": "冷たい部屋、一人",
+        "singer": "小松未可子",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "小松未可子 - 冷たい部屋、一人.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/小松未可子 - 冷たい部屋、一人.flac",
+            "size": 26718637
+          }
+        ]
+      }
+    ]
+  },
+  "暁Records": {
+    "name": "暁Records",
+    "song": [
+      {
+        "name": "二人の結晶-INNOCENCE-",
+        "singer": "暁Records,Stack",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "暁Records,Stack - 二人の結晶-INNOCENCE-.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/暁Records,Stack - 二人の結晶-INNOCENCE-.mp3",
+            "size": 7738119
+          }
+        ]
+      },
+      {
+        "name": "夢想彼方",
+        "singer": "暁Records,Stack",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "暁Records,Stack - 夢想彼方.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/暁Records,Stack - 夢想彼方.mp3",
+            "size": 10815692
+          }
+        ]
+      },
+      {
+        "name": "ENDLESS FANTASY",
+        "singer": "暁Records,Stack",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "暁Records,Stack - ENDLESS FANTASY.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/暁Records,Stack - ENDLESS FANTASY.mp3",
+            "size": 11794372
+          }
+        ]
+      },
+      {
+        "name": "You Say",
+        "singer": "暁Records,Stack",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "暁Records,Stack - You Say.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/暁Records,Stack - You Say.mp3",
+            "size": 6148175
+          }
+        ]
+      }
+    ]
+  },
+  "星名優子": {
+    "name": "星名優子",
+    "song": [
+      {
+        "name": "目隠し",
+        "singer": "星名優子",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "星名優子 - 目隠し.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/星名優子 - 目隠し.mp3",
+            "size": 9990793
+          }
+        ]
+      }
+    ]
+  },
+  "亜矢": {
+    "name": "亜矢",
+    "song": [
+      {
+        "name": "Beautiful Spider",
+        "singer": "亜矢",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "亜矢 - Beautiful Spider.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/亜矢 - Beautiful Spider.mp3",
+            "size": 3966093
+          }
+        ]
+      }
+    ]
+  },
+  "亜咲花": {
+    "name": "亜咲花",
+    "song": [
+      {
+        "name": "Open your eyes",
+        "singer": "亜咲花",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "亜咲花 - Open your eyes.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/亜咲花 - Open your eyes.flac",
+            "size": 38764970
+          }
+        ]
+      }
+    ]
+  },
+  "岩田さゆり": {
+    "name": "岩田さゆり",
+    "song": [
+      {
+        "name": "空飛ぶあの白い雲のように",
+        "singer": "岩田さゆり",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "岩田さゆり - 空飛ぶあの白い雲のように.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/岩田さゆり - 空飛ぶあの白い雲のように.mp3",
+            "size": 11522366
+          }
+        ]
+      }
+    ]
+  },
+  "塩ノ谷早耶香": {
+    "name": "塩ノ谷早耶香",
+    "song": [
+      {
+        "name": "Calling Out",
+        "singer": "塩ノ谷早耶香",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "塩ノ谷早耶香 - Calling Out.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/塩ノ谷早耶香 - Calling Out.mp3",
+            "size": 10270016
+          }
+        ]
+      }
+    ]
+  },
+  "葉月ゆら": {
+    "name": "葉月ゆら",
+    "song": [
+      {
+        "name": "恋するマリオネット",
+        "singer": "葉月ゆら",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "葉月ゆら - 恋するマリオネット.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/葉月ゆら - 恋するマリオネット.mp3",
+            "size": 9756803
+          }
+        ]
+      }
+    ]
+  },
+  "银临": {
+    "name": "银临",
+    "song": [
+      {
+        "name": "是风动",
+        "singer": "银临,河图",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "银临,河图 - 是风动.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/银临,河图 - 是风动.flac",
+            "size": 34186862
+          }
+        ]
+      },
+      {
+        "name": "牵丝戏",
+        "singer": "银临,Aki阿杰",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "银临、Aki阿杰 - 牵丝戏.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/银临、Aki阿杰 - 牵丝戏.flac",
+            "size": 28083546
+          }
+        ]
+      }
+    ]
+  },
+  "引田香織": {
+    "name": "引田香織",
+    "song": [
+      {
+        "name": "笑顔の訳",
+        "singer": "引田香織",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "引田香織 - 笑顔の訳.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/引田香織 - 笑顔の訳.mp3",
+            "size": 12228869
+          }
+        ]
+      }
+    ]
+  },
+  "呦猫UNEKO": {
+    "name": "呦猫UNEKO",
+    "song": [
+      {
+        "name": "梦回还",
+        "singer": "呦猫UNEKO",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "呦猫UNEKO - 梦回还.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/呦猫UNEKO - 梦回还.mp3",
+            "size": 10532444
+          }
+        ]
+      },
+      {
+        "name": "铭记",
+        "singer": "呦猫UNEKO",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "呦猫UNEKO - 铭记.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/呦猫UNEKO - 铭记.flac",
+            "size": 37380583
+          }
+        ]
+      }
+    ]
+  },
+  "幽閉サテライト": {
+    "name": "幽閉サテライト",
+    "song": [
+      {
+        "name": "生まれた意味、生きる理由",
+        "singer": "幽閉サテライト",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "幽閉サテライト - 生まれた意味、生きる理由.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/幽閉サテライト - 生まれた意味、生きる理由.mp3",
+            "size": 8330972
+          }
+        ]
+      },
+      {
+        "name": "束の间ユートピア",
+        "singer": "幽閉サテライト",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "幽閉サテライト - 束の间ユートピア.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/幽閉サテライト - 束の间ユートピア.flac",
+            "size": 25923057
+          }
+        ]
+      }
+    ]
+  },
+  "有坂美香": {
+    "name": "有坂美香",
+    "song": [
+      {
+        "name": "Life Goes On",
+        "singer": "有坂美香",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "有坂美香 - Life Goes On.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/有坂美香 - Life Goes On.mp3",
+            "size": 9852384
+          }
+        ]
+      }
+    ]
+  },
+  "有澤孝紀": {
+    "name": "有澤孝紀",
+    "song": [
+      {
+        "name": "勝利~善のテーマ",
+        "singer": "有澤孝紀",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "有澤孝紀 - 勝利~善のテーマ.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/有澤孝紀 - 勝利~善のテーマ.mp3",
+            "size": 3793526
+          }
+        ]
+      }
+    ]
+  },
+  "宇多田ヒカル": {
+    "name": "宇多田ヒカル",
+    "song": [
+      {
+        "name": "Goodbye Happiness",
+        "singer": "宇多田ヒカル",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "宇多田ヒカル - Goodbye Happiness.ncm",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/宇多田ヒカル - Goodbye Happiness.ncm",
+            "size": 13071606
+          }
+        ]
+      },
+      {
+        "name": "Prisoner Of Love",
+        "singer": "宇多田ヒカル",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "宇多田ヒカル - Prisoner Of Love.ncm",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/宇多田ヒカル - Prisoner Of Love.ncm",
+            "size": 33791163
+          }
+        ]
+      }
+    ]
+  },
+  "御恵明希": {
+    "name": "御恵明希",
+    "song": [
+      {
+        "name": "壊されたお守り",
+        "singer": "御恵明希",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "御恵明希 - 壊されたお守り.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/御恵明希 - 壊されたお守り.mp3",
+            "size": 12190019
+          }
+        ]
+      }
+    ]
+  },
+  "早見沙織": {
+    "name": "早見沙織",
+    "song": [
+      {
+        "name": "エブリデイワールド",
+        "singer": "早見沙織,東山奈央",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "早見沙織,東山奈央 - エブリデイワールド.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/早見沙織,東山奈央 - エブリデイワールド.flac",
+            "size": 33508008
+          }
+        ]
+      }
+    ]
+  },
+  "澤野弘之": {
+    "name": "澤野弘之",
+    "song": [
+      {
+        "name": "eye-water",
+        "singer": "澤野弘之",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "澤野弘之 - eye-water.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/澤野弘之 - eye-water.flac",
+            "size": 16922222
+          }
+        ]
+      },
+      {
+        "name": "κrOnё",
+        "singer": "澤野弘之",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "澤野弘之 - κrOnё.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/澤野弘之 - κrOnё.flac",
+            "size": 30948668
+          }
+        ]
+      }
+    ]
+  },
+  "斎藤千和": {
+    "name": "斎藤千和",
+    "song": [
+      {
+        "name": "二言目",
+        "singer": "斎藤千和",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "斎藤千和 - 二言目.ncm",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/斎藤千和 - 二言目.ncm",
+            "size": 10782879
+          }
+        ]
+      }
+    ]
+  },
+  "张杰": {
+    "name": "张杰",
+    "song": [
+      {
+        "name": "天下",
+        "singer": "张杰",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "张杰 - 天下.ncm",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/张杰 - 天下.ncm",
+            "size": 26011672
+          }
+        ]
+      },
+      {
+        "name": "我们都一样",
+        "singer": "张杰",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "张杰 - 我们都一样.ncm",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/张杰 - 我们都一样.ncm",
+            "size": 34455254
+          }
+        ]
+      }
+    ]
+  },
+  "张靓颖": {
+    "name": "张靓颖",
+    "song": [
+      {
+        "name": "天下无双",
+        "singer": "张靓颖",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "张靓颖 - 天下无双.ncm",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/张靓颖 - 天下无双.ncm",
+            "size": 12745402
+          }
+        ]
+      }
+    ]
+  },
+  "张晓棠": {
+    "name": "张晓棠",
+    "song": [
+      {
+        "name": "苏幕遮",
+        "singer": "张晓棠",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "张晓棠 - 苏幕遮.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/张晓棠 - 苏幕遮.mp3",
+            "size": 8108643
+          }
+        ]
+      }
+    ]
+  },
+  "张芸京": {
+    "name": "张芸京",
+    "song": [
+      {
+        "name": "偏爱",
+        "singer": "张芸京",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "张芸京 - 偏爱.ncm",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/张芸京 - 偏爱.ncm",
+            "size": 24912578
+          }
+        ]
+      }
+    ]
+  },
+  "沼倉愛美": {
+    "name": "沼倉愛美",
+    "song": [
+      {
+        "name": "かざぐるま",
+        "singer": "沼倉愛美",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "沼倉愛美 - かざぐるま.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/沼倉愛美 - かざぐるま.mp3",
+            "size": 11342864
+          }
+        ]
+      }
+    ]
+  },
+  "折戸伸治": {
+    "name": "折戸伸治",
+    "song": [
+      {
+        "name": "潮鳴り",
+        "singer": "折戸伸治",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "折戸伸治 - 潮鳴り.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/折戸伸治 - 潮鳴り.flac",
+            "size": 17182214
+          }
+        ]
+      }
+    ]
+  },
+  "真崎ゆか": {
+    "name": "真崎ゆか",
+    "song": [
+      {
+        "name": "Lady Luck",
+        "singer": "真崎ゆか",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "真崎ゆか - Lady Luck.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/真崎ゆか - Lady Luck.mp3",
+            "size": 8566410
+          }
+        ]
+      },
+      {
+        "name": "眠れないほど",
+        "singer": "真崎ゆか,WISE",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "真崎ゆか,WISE - 眠れないほど.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/真崎ゆか,WISE - 眠れないほど.mp3",
+            "size": 8549718
+          }
+        ]
+      }
+    ]
+  },
+  "郑国锋": {
+    "name": "郑国锋",
+    "song": [
+      {
+        "name": "小丑先生",
+        "singer": "郑国锋",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "郑国锋 - 小丑先生.ncm",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/郑国锋 - 小丑先生.ncm",
+            "size": 7134077
+          }
+        ]
+      }
+    ]
+  },
+  "志方あきこ": {
+    "name": "志方あきこ",
+    "song": [
+      {
+        "name": "金色の嘲笑 ~丽しの晩餐~",
+        "singer": "志方あきこ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "志方あきこ - 金色の嘲笑 ~丽しの晩餐~.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/志方あきこ - 金色の嘲笑 ~丽しの晩餐~.flac",
+            "size": 32387556
+          }
+        ]
+      },
+      {
+        "name": "空蝉",
+        "singer": "志方あきこ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "志方あきこ - 空蝉.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/志方あきこ - 空蝉.mp3",
+            "size": 11829363
+          }
+        ]
+      },
+      {
+        "name": "片恋",
+        "singer": "志方あきこ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "志方あきこ - 片恋.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/志方あきこ - 片恋.flac",
+            "size": 31344656
+          }
+        ]
+      },
+      {
+        "name": "谁ガ为ノ世界",
+        "singer": "志方あきこ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "志方あきこ - 谁ガ为ノ世界.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/志方あきこ - 谁ガ为ノ世界.mp3",
+            "size": 9552135
+          }
+        ]
+      },
+      {
+        "name": "朱隠し",
+        "singer": "志方あきこ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "志方あきこ - 朱隠し.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/志方あきこ - 朱隠し.mp3",
+            "size": 12415053
+          }
+        ]
+      },
+      {
+        "name": "EXEC_FLIP_ARPHAGE／",
+        "singer": "志方あきこ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "志方あきこ - EXEC_FLIP_ARPHAGE／.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/志方あきこ - EXEC_FLIP_ARPHAGE／.flac",
+            "size": 39846188
+          }
+        ]
+      },
+      {
+        "name": "うみねこのなく頃に",
+        "singer": "志方あきこ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "志方あきこ - うみねこのなく頃に.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/志方あきこ - うみねこのなく頃に.flac",
+            "size": 35543605
+          }
+        ]
+      }
+    ]
+  },
+  "中川幸太郎": {
+    "name": "中川幸太郎",
+    "song": [
+      {
+        "name": "Madder Sky",
+        "singer": "中川幸太郎",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "中川幸太郎 - Madder Sky.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/中川幸太郎 - Madder Sky.mp3",
+            "size": 7479791
+          }
+        ]
+      }
+    ]
+  },
+  "中村舞子": {
+    "name": "中村舞子",
+    "song": [
+      {
+        "name": "言えない気持ち",
+        "singer": "中村舞子",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "中村舞子 - 言えない気持ち.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/中村舞子 - 言えない気持ち.mp3",
+            "size": 14479483
+          }
+        ]
+      },
+      {
+        "name": "The Distance",
+        "singer": "中村舞子",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "中村舞子 - The Distance.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/中村舞子 - The Distance.flac",
+            "size": 35468795
+          }
+        ]
+      },
+      {
+        "name": "まだ、そばにいたい",
+        "singer": "中村舞子",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "中村舞子 - まだ、そばにいたい.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/中村舞子 - まだ、そばにいたい.flac",
+            "size": 34907571
+          }
+        ]
+      },
+      {
+        "name": "ユートピア",
+        "singer": "中村舞子",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "中村舞子 - ユートピア.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/中村舞子 - ユートピア.mp3",
+            "size": 11188663
+          }
+        ]
+      }
+    ]
+  },
+  "種田梨沙": {
+    "name": "種田梨沙",
+    "song": [
+      {
+        "name": "My Truth～ロンド・カプリチオーソ",
+        "singer": "種田梨沙",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "種田梨沙 - My Truth～ロンド・カプリチオーソ.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/種田梨沙 - My Truth～ロンド・カプリチオーソ.mp3",
+            "size": 12717844
+          }
+        ]
+      },
+      {
+        "name": "約束の絆",
+        "singer": "種田梨沙,茅原実里,山岡ゆり",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "種田梨沙,茅原実里,山岡ゆり - 約束の絆.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/種田梨沙,茅原実里,山岡ゆり - 約束の絆.mp3",
+            "size": 11260990
+          }
+        ]
+      }
+    ]
+  },
+  "洲崎綾": {
+    "name": "洲崎綾",
+    "song": [
+      {
+        "name": "ヴィーナスシンドローム",
+        "singer": "洲崎綾",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "洲崎綾 - ヴィーナスシンドローム.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/洲崎綾 - ヴィーナスシンドローム.mp3",
+            "size": 10772489
+          }
+        ]
+      }
+    ]
+  },
+  "竹井詩織里": {
+    "name": "竹井詩織里",
+    "song": [
+      {
+        "name": "世界 止めて",
+        "singer": "竹井詩織里",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "竹井詩織里 - 世界 止めて.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/竹井詩織里 - 世界 止めて.mp3",
+            "size": 10667080
+          }
+        ]
+      }
+    ]
+  },
+  "佐藤史果": {
+    "name": "佐藤史果",
+    "song": [
+      {
+        "name": "泣いて笑って",
+        "singer": "佐藤史果",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "佐藤史果 - 泣いて笑って.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/佐藤史果 - 泣いて笑って.flac",
+            "size": 35153733
+          }
+        ]
+      },
+      {
+        "name": "からっぽ",
+        "singer": "佐藤史果",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "佐藤史果 - からっぽ.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/佐藤史果 - からっぽ.flac",
+            "size": 36446604
+          }
+        ]
+      }
+    ]
+  },
+  "佐藤しずく": {
+    "name": "佐藤しずく",
+    "song": [
+      {
+        "name": "百花繚乱ファンタズム 葵ちゃんReMIX",
+        "singer": "佐藤しずく",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "佐藤しずく - 百花繚乱ファンタズム 葵ちゃんReMIX.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/佐藤しずく - 百花繚乱ファンタズム 葵ちゃんReMIX.mp3",
+            "size": 10202160
+          }
+        ]
+      }
+    ]
+  },
+  "AAA": {
+    "name": "AAA",
+    "song": [
+      {
+        "name": "愛してるのに、愛せない",
+        "singer": "AAA",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "AAA - 愛してるのに、愛せない.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/AAA - 愛してるのに、愛せない.flac",
+            "size": 38944412
+          }
+        ]
+      },
+      {
+        "name": "風に薫る夏の記憶",
+        "singer": "AAA",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "AAA - 風に薫る夏の記憶.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/AAA - 風に薫る夏の記憶.flac",
+            "size": 36849944
+          }
+        ]
+      },
+      {
+        "name": "恋音と雨空",
+        "singer": "AAA",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "AAA - 恋音と雨空.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/AAA - 恋音と雨空.flac",
+            "size": 40894975
+          }
+        ]
+      },
+      {
+        "name": "With you",
+        "singer": "AAA",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "AAA - With you.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/AAA - With you.flac",
+            "size": 34909173
+          }
+        ]
+      }
+    ]
+  },
+  "Aether": {
+    "name": "Aether",
+    "song": [
+      {
+        "name": "Raccoon City",
+        "singer": "Aether,SizzleBird,Veela",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "Aether,SizzleBird,Veela - Raccoon City.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Aether,SizzleBird,Veela - Raccoon City.mp3",
+            "size": 9366806
+          }
+        ]
+      }
+    ]
+  },
+  "aile": {
+    "name": "aile",
+    "song": [
+      {
+        "name": "Sakura",
+        "singer": "aile",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "aile - Sakura.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/aile - Sakura.mp3",
+            "size": 9099357
+          }
+        ]
+      }
+    ]
+  },
+  "Aimer": {
+    "name": "Aimer",
+    "song": [
+      {
+        "name": "ninelie ",
+        "singer": "Aimer",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Aimer - ninelie (cry-v).flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Aimer - ninelie (cry-v).flac",
+            "size": 36117405
+          }
+        ]
+      },
+      {
+        "name": "ninelie",
+        "singer": "Aimer,EGOIST",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "Aimer,EGOIST - ninelie.ncm",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Aimer,EGOIST - ninelie.ncm",
+            "size": 32954056
+          }
+        ]
+      },
+      {
+        "name": "ninelie ＜cry-v＞",
+        "singer": "Aimer,SawanoHiroyuki[nZk]",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "Aimer,SawanoHiroyuki[nZk] - ninelie ＜cry-v＞.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Aimer,SawanoHiroyuki[nZk] - ninelie ＜cry-v＞.flac",
+            "size": 36897980
+          }
+        ]
+      }
+    ]
+  },
+  "Aki阿杰": {
+    "name": "Aki阿杰",
+    "song": [
+      {
+        "name": "何以歌",
+        "singer": "Aki阿杰",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Aki阿杰 - 何以歌.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Aki阿杰 - 何以歌.mp3",
+            "size": 11016330
+          }
+        ]
+      }
+    ]
+  },
+  "AKINO": {
+    "name": "AKINO",
+    "song": [
+      {
+        "name": "ZEROゼロ",
+        "singer": "AKINO",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "AKINO - ZEROゼロ.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/AKINO - ZEROゼロ.flac",
+            "size": 37475671
+          }
+        ]
+      },
+      {
+        "name": "君の神話~アクエリオン第二章",
+        "singer": "AKINO,bless4",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "AKINO、bless4 - 君の神話~アクエリオン第二章.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/AKINO、bless4 - 君の神話~アクエリオン第二章.flac",
+            "size": 43507850
+          }
+        ]
+      }
+    ]
+  },
+  "AKINO with bless4": {
+    "name": "AKINO with bless4",
+    "song": [
+      {
+        "name": "創聖のアクエリオン お兄さまと",
+        "singer": "AKINO with bless4",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "AKINO with bless4 - 創聖のアクエリオン お兄さまと.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/AKINO with bless4 - 創聖のアクエリオン お兄さまと.flac",
+            "size": 36029264
+          }
+        ]
+      }
+    ]
+  },
+  "ALSTROeMERIA": {
+    "name": "ALSTROeMERIA",
+    "song": [
+      {
+        "name": "ZOU+",
+        "singer": "ALSTROeMERIA",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "ALSTROeMERIA - ZOU+.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/ALSTROeMERIA - ZOU+.mp3",
+            "size": 14072695
+          }
+        ]
+      }
+    ]
+  },
+  "ALTIMA": {
+    "name": "ALTIMA",
+    "song": [
+      {
+        "name": "I'll believe",
+        "singer": "ALTIMA",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "ALTIMA - I'll believe.ncm",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/ALTIMA - I'll believe.ncm",
+            "size": 45707730
+          }
+        ]
+      }
+    ]
+  },
+  "angela": {
+    "name": "angela",
+    "song": [
+      {
+        "name": "僕じゃない",
+        "singer": "angela",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "angela - 僕じゃない.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/angela - 僕じゃない.flac",
+            "size": 36468852
+          }
+        ]
+      }
+    ]
+  },
+  "Aqua Timez": {
+    "name": "Aqua Timez",
+    "song": [
+      {
+        "name": "真夜中のオーケストラ",
+        "singer": "Aqua Timez",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Aqua Timez - 真夜中のオーケストラ.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Aqua Timez - 真夜中のオーケストラ.mp3",
+            "size": 14402748
+          }
+        ]
+      }
+    ]
+  },
+  "Arisa": {
+    "name": "Arisa",
+    "song": [
+      {
+        "name": "キズナ",
+        "singer": "Arisa",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Arisa - キズナ.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Arisa - キズナ.mp3",
+            "size": 10444151
+          }
+        ]
+      }
+    ]
+  },
+  "Ashes Remain": {
+    "name": "Ashes Remain",
+    "song": [
+      {
+        "name": "On My Own",
+        "singer": "Ashes Remain",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Ashes Remain - On My Own.ncm",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Ashes Remain - On My Own.ncm",
+            "size": 23829986
+          }
+        ]
+      }
+    ]
+  },
+  "Asriel": {
+    "name": "Asriel",
+    "song": [
+      {
+        "name": "誓响のイグレージャ",
+        "singer": "Asriel",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Asriel - 誓响のイグレージャ.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Asriel - 誓响のイグレージャ.mp3",
+            "size": 9538702
+          }
+        ]
+      }
+    ]
+  },
+  "Audio Highs": {
+    "name": "Audio Highs",
+    "song": [
+      {
+        "name": "指论と観覧车",
+        "singer": "Audio Highs",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Audio Highs - 指论と観覧车.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Audio Highs - 指论と観覧车.mp3",
+            "size": 4841422
+          }
+        ]
+      }
+    ]
+  },
+  "ave;new": {
+    "name": "ave;new",
+    "song": [
+      {
+        "name": "Eternal Wish",
+        "singer": "ave;new,佐倉紗織",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "ave;new,佐倉紗織 - Eternal Wish.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/ave;new,佐倉紗織 - Eternal Wish.mp3",
+            "size": 11252321
+          }
+        ]
+      }
+    ]
+  },
+  "AYUMI KAWAKITA": {
+    "name": "AYUMI KAWAKITA",
+    "song": [
+      {
+        "name": "E☆Right",
+        "singer": "AYUMI KAWAKITA",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "AYUMI KAWAKITA - E☆Right.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/AYUMI KAWAKITA - E☆Right.mp3",
+            "size": 9579412
+          }
+        ]
+      },
+      {
+        "name": "tears",
+        "singer": "AYUMI KAWAKITA",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "AYUMI KAWAKITA - tears.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/AYUMI KAWAKITA - tears.mp3",
+            "size": 13600168
+          }
+        ]
+      }
+    ]
+  },
+  "AYUSE KOZUE": {
+    "name": "AYUSE KOZUE",
+    "song": [
+      {
+        "name": "Cry For You",
+        "singer": "AYUSE KOZUE",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "AYUSE KOZUE - Cry For You.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/AYUSE KOZUE - Cry For You.mp3",
+            "size": 13307825
+          }
+        ]
+      }
+    ]
+  },
+  "AZU": {
+    "name": "AZU",
+    "song": [
+      {
+        "name": "時間よ止まれ feat. SEAMO",
+        "singer": "AZU",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "AZU - 時間よ止まれ feat. SEAMO.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/AZU - 時間よ止まれ feat. SEAMO.mp3",
+            "size": 10511259
+          }
+        ]
+      },
+      {
+        "name": "For You",
+        "singer": "AZU",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "AZU - For You.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/AZU - For You.mp3",
+            "size": 10762181
+          }
+        ]
+      },
+      {
+        "name": "时间よ止まれ",
+        "singer": "AZU,SEAMO",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "AZU,SEAMO - 时间よ止まれ.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/AZU,SEAMO - 时间よ止まれ.mp3",
+            "size": 10573922
+          }
+        ]
+      }
+    ]
+  },
+  "BAAD": {
+    "name": "BAAD",
+    "song": [
+      {
+        "name": "君が好きだと叫びたい",
+        "singer": "BAAD",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "BAAD - 君が好きだと叫びたい.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/BAAD - 君が好きだと叫びたい.flac",
+            "size": 30779963
+          }
+        ]
+      }
+    ]
+  },
+  "BENI": {
+    "name": "BENI",
+    "song": [
+      {
+        "name": "ユラユラ",
+        "singer": "BENI",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "BENI - ユラユラ.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/BENI - ユラユラ.mp3",
+            "size": 9910037
+          }
+        ]
+      }
+    ]
+  },
+  "Black Veil Brides": {
+    "name": "Black Veil Brides",
+    "song": [
+      {
+        "name": "In the End",
+        "singer": "Black Veil Brides",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Black Veil Brides - In the End.ncm",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Black Veil Brides - In the End.ncm",
+            "size": 9408096
+          }
+        ]
+      }
+    ]
+  },
+  "BRIGHT": {
+    "name": "BRIGHT",
+    "song": [
+      {
+        "name": "1年2ヶ月20日",
+        "singer": "BRIGHT",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "BRIGHT - 1年2ヶ月20日.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/BRIGHT - 1年2ヶ月20日.flac",
+            "size": 42659093
+          }
+        ]
+      },
+      {
+        "name": "逢うたび好きになって",
+        "singer": "BRIGHT",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "BRIGHT - 逢うたび好きになって.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/BRIGHT - 逢うたび好きになって.flac",
+            "size": 32985489
+          }
+        ]
+      },
+      {
+        "name": "儚くて",
+        "singer": "BRIGHT",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "BRIGHT - 儚くて.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/BRIGHT - 儚くて.flac",
+            "size": 31593207
+          }
+        ]
+      }
+    ]
+  },
+  "C&K": {
+    "name": "C&K",
+    "song": [
+      {
+        "name": "サヨナラ",
+        "singer": "C&K",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "C&K - サヨナラ.ncm",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/C&K - サヨナラ.ncm",
+            "size": 13600170
+          }
+        ]
+      }
+    ]
+  },
+  "Celine Dion": {
+    "name": "Celine Dion",
+    "song": [
+      {
+        "name": "My Heart Will Go On",
+        "singer": "Celine Dion",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Celine Dion - My Heart Will Go On.ncm",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Celine Dion - My Heart Will Go On.ncm",
+            "size": 11543986
+          }
+        ]
+      }
+    ]
+  },
+  "Ceui": {
+    "name": "Ceui",
+    "song": [
+      {
+        "name": "今、歩き出す君へ",
+        "singer": "Ceui",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Ceui - 今、歩き出す君へ.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Ceui - 今、歩き出す君へ.flac",
+            "size": 34427564
+          }
+        ]
+      },
+      {
+        "name": "Stigmata",
+        "singer": "Ceui",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Ceui - Stigmata.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Ceui - Stigmata.flac",
+            "size": 35819133
+          }
+        ]
+      }
+    ]
+  },
+  "Changin' My Life": {
+    "name": "Changin' My Life",
+    "song": [
+      {
+        "name": "ETERNAL SNOW",
+        "singer": "Changin' My Life",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Changin' My Life - ETERNAL SNOW.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Changin' My Life - ETERNAL SNOW.mp3",
+            "size": 13122666
+          }
+        ]
+      },
+      {
+        "name": "New Future",
+        "singer": "Changin' My Life",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Changin' My Life - New Future.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Changin' My Life - New Future.mp3",
+            "size": 12196994
+          }
+        ]
+      }
+    ]
+  },
+  "Che'Nelle": {
+    "name": "Che'Nelle",
+    "song": [
+      {
+        "name": "君に贈る歌 ~Song For You",
+        "singer": "Che'Nelle",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Che'Nelle - 君に贈る歌 ~Song For You.ncm",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Che'Nelle - 君に贈る歌 ~Song For You.ncm",
+            "size": 13764814
+          }
+        ]
+      },
+      {
+        "name": "SAKURA",
+        "singer": "Che'Nelle",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Che'Nelle - SAKURA.ncm",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Che'Nelle - SAKURA.ncm",
+            "size": 35311439
+          }
+        ]
+      }
+    ]
+  },
+  "CHEMISTRY": {
+    "name": "CHEMISTRY",
+    "song": [
+      {
+        "name": "Period",
+        "singer": "CHEMISTRY",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "CHEMISTRY - Period.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/CHEMISTRY - Period.flac",
+            "size": 28754369
+          }
+        ]
+      }
+    ]
+  },
+  "Chen": {
+    "name": "Chen",
+    "song": [
+      {
+        "name": "U - Horizon",
+        "singer": "Chen",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Chen-U - Horizon.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Chen-U - Horizon.mp3",
+            "size": 11446279
+          }
+        ]
+      },
+      {
+        "name": "U - Libertus",
+        "singer": "Chen",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Chen-U - Libertus.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Chen-U - Libertus.mp3",
+            "size": 11375214
+          }
+        ]
+      }
+    ]
+  },
+  "CHIHIRO": {
+    "name": "CHIHIRO",
+    "song": [
+      {
+        "name": "恋時雨",
+        "singer": "CHIHIRO",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "CHIHIRO - 恋時雨.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/CHIHIRO - 恋時雨.mp3",
+            "size": 13445903
+          }
+        ]
+      },
+      {
+        "name": "永遠",
+        "singer": "CHIHIRO,Tarantula from スポンテニア",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "CHIHIRO,Tarantula from スポンテニア - 永遠.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/CHIHIRO,Tarantula from スポンテニア - 永遠.mp3",
+            "size": 13159649
+          }
+        ]
+      }
+    ]
+  },
+  "CIMBA": {
+    "name": "CIMBA",
+    "song": [
+      {
+        "name": "Call",
+        "singer": "CIMBA,NaNa",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "CIMBA,NaNa - Call.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/CIMBA,NaNa - Call.mp3",
+            "size": 12507327
+          }
+        ]
+      }
+    ]
+  },
+  "CLIFF EDGE": {
+    "name": "CLIFF EDGE",
+    "song": [
+      {
+        "name": "Endless Tears",
+        "singer": "CLIFF EDGE",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "CLIFF EDGE - Endless Tears.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/CLIFF EDGE - Endless Tears.flac",
+            "size": 34531933
+          }
+        ]
+      },
+      {
+        "name": "Re： ナミダボシ",
+        "singer": "CLIFF EDGE",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "CLIFF EDGE - Re： ナミダボシ.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/CLIFF EDGE - Re： ナミダボシ.mp3",
+            "size": 7476370
+          }
+        ]
+      },
+      {
+        "name": "アイシテル",
+        "singer": "CLIFF EDGE,三浦サリー",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "CLIFF EDGE,三浦サリー - アイシテル.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/CLIFF EDGE,三浦サリー - アイシテル.mp3",
+            "size": 7186095
+          }
+        ]
+      }
+    ]
+  },
+  "Crystal Kay": {
+    "name": "Crystal Kay",
+    "song": [
+      {
+        "name": "Monolouge",
+        "singer": "Crystal Kay",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Crystal Kay - Monolouge.ncm",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Crystal Kay - Monolouge.ncm",
+            "size": 9492908
+          }
+        ]
+      }
+    ]
+  },
+  "DeviceHigh": {
+    "name": "DeviceHigh",
+    "song": [
+      {
+        "name": "イノセント・ブルー",
+        "singer": "DeviceHigh",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "DeviceHigh - イノセント・ブルー.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/DeviceHigh - イノセント・ブルー.mp3",
+            "size": 9936085
+          }
+        ]
+      }
+    ]
+  },
+  "Dios": {
+    "name": "Dios",
+    "song": [
+      {
+        "name": "アドレサンス",
+        "singer": "Dios",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Dios - アドレサンス.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Dios - アドレサンス.mp3",
+            "size": 12141430
+          }
+        ]
+      }
+    ]
+  },
+  "DOMINO": {
+    "name": "DOMINO",
+    "song": [
+      {
+        "name": "U can do it!",
+        "singer": "DOMINO",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "DOMINO - U can do it!.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/DOMINO - U can do it!.flac",
+            "size": 33720225
+          }
+        ]
+      }
+    ]
+  },
+  "dream": {
+    "name": "dream",
+    "song": [
+      {
+        "name": "こんなにも",
+        "singer": "dream",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "dream - こんなにも.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/dream - こんなにも.flac",
+            "size": 34861892
+          }
+        ]
+      }
+    ]
+  },
+  "EGOIST": {
+    "name": "EGOIST",
+    "song": [
+      {
+        "name": "Departures ~Blessing~",
+        "singer": "EGOIST",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "EGOIST - Departures ~Blessing~.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/EGOIST - Departures ~Blessing~.flac",
+            "size": 14155571
+          }
+        ]
+      }
+    ]
+  },
+  "Elements Garden": {
+    "name": "Elements Garden",
+    "song": [
+      {
+        "name": "Fragment ~Eternal Infinity~",
+        "singer": "Elements Garden",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Elements Garden - Fragment ~Eternal Infinity~.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Elements Garden - Fragment ~Eternal Infinity~.mp3",
+            "size": 10871884
+          }
+        ]
+      }
+    ]
+  },
+  "Elisa": {
+    "name": "Elisa",
+    "song": [
+      {
+        "name": "Lost Into The Night",
+        "singer": "Elisa",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Elisa - Lost Into The Night.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Elisa - Lost Into The Night.mp3",
+            "size": 11956915
+          }
+        ]
+      }
+    ]
+  },
+  "Emi Evans": {
+    "name": "Emi Evans",
+    "song": [
+      {
+        "name": "Weight of the World ",
+        "singer": "Emi Evans",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Emi Evans - Weight of the World (Nouveau-FR Version).flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Emi Evans - Weight of the World (Nouveau-FR Version).flac",
+            "size": 37504190
+          }
+        ]
+      }
+    ]
+  },
+  "Emily Bindiger": {
+    "name": "Emily Bindiger",
+    "song": [
+      {
+        "name": "my long forgotten cloistered sleep ",
+        "singer": "Emily Bindiger",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Emily Bindiger - my long forgotten cloistered sleep (unreleased work of Xenosaga).flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Emily Bindiger - my long forgotten cloistered sleep (unreleased work of Xenosaga).flac",
+            "size": 39926409
+          }
+        ]
+      }
+    ]
+  },
+  "ENA☆": {
+    "name": "ENA☆",
+    "song": [
+      {
+        "name": "For you～月の光が降り注ぐテラス",
+        "singer": "ENA☆",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "ENA☆ - For you～月の光が降り注ぐテラス.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/ENA☆ - For you～月の光が降り注ぐテラス.flac",
+            "size": 34737605
+          }
+        ]
+      }
+    ]
+  },
+  "eufonius": {
+    "name": "eufonius",
+    "song": [
+      {
+        "name": "比翼の羽根",
+        "singer": "eufonius",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "eufonius - 比翼の羽根.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/eufonius - 比翼の羽根.flac",
+            "size": 36545983
+          }
+        ]
+      },
+      {
+        "name": "メグメル ~cuckool mix 2007~",
+        "singer": "eufonius",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "eufonius - メグメル ~cuckool mix 2007~.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/eufonius - メグメル ~cuckool mix 2007~.mp3",
+            "size": 11377725
+          }
+        ]
+      }
+    ]
+  },
+  "Every Little Thing": {
+    "name": "Every Little Thing",
+    "song": [
+      {
+        "name": "Grip!",
+        "singer": "Every Little Thing",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Every Little Thing - Grip!.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Every Little Thing - Grip!.flac",
+            "size": 41655094
+          }
+        ]
+      }
+    ]
+  },
+  "F9": {
+    "name": "F9",
+    "song": [
+      {
+        "name": "GALLOWS BELL",
+        "singer": "F9",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "F9 - GALLOWS BELL.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/F9 - GALLOWS BELL.mp3",
+            "size": 6744033
+          }
+        ]
+      }
+    ]
+  },
+  "FELT": {
+    "name": "FELT",
+    "song": [
+      {
+        "name": "Beautiful Trick",
+        "singer": "FELT",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "FELT - Beautiful Trick.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/FELT - Beautiful Trick.mp3",
+            "size": 13055323
+          }
+        ]
+      },
+      {
+        "name": "You're the Shine ",
+        "singer": "FELT",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "FELT - You're the Shine (Night Butterflies).flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/FELT - You're the Shine (Night Butterflies).flac",
+            "size": 42244815
+          }
+        ]
+      }
+    ]
+  },
+  "FictionJunction": {
+    "name": "FictionJunction",
+    "song": [
+      {
+        "name": "花守の丘",
+        "singer": "FictionJunction",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "FictionJunction - 花守の丘.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/FictionJunction - 花守の丘.mp3",
+            "size": 12928280
+          }
+        ]
+      },
+      {
+        "name": "Parallel Hearts",
+        "singer": "FictionJunction",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "FictionJunction - Parallel Hearts.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/FictionJunction - Parallel Hearts.mp3",
+            "size": 11674214
+          }
+        ]
+      },
+      {
+        "name": "stone cold",
+        "singer": "FictionJunction",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "FictionJunction - stone cold.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/FictionJunction - stone cold.mp3",
+            "size": 14568438
+          }
+        ]
+      }
+    ]
+  },
+  "Fivesta": {
+    "name": "Fivesta",
+    "song": [
+      {
+        "name": "今でもI Love You",
+        "singer": "Fivesta",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Fivesta - 今でもI Love You.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Fivesta - 今でもI Love You.mp3",
+            "size": 11096190
+          }
+        ]
+      }
+    ]
+  },
+  "FLOWER": {
+    "name": "FLOWER",
+    "song": [
+      {
+        "name": "初恋",
+        "singer": "FLOWER",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "FLOWER - 初恋.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/FLOWER - 初恋.mp3",
+            "size": 8986829
+          }
+        ]
+      },
+      {
+        "name": "太陽と向日葵",
+        "singer": "FLOWER",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "FLOWER - 太陽と向日葵.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/FLOWER - 太陽と向日葵.mp3",
+            "size": 11061347
+          }
+        ]
+      },
+      {
+        "name": "Boyfriend ",
+        "singer": "FLOWER",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "FLOWER - Boyfriend (Moonlight Version).mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/FLOWER - Boyfriend (Moonlight Version).mp3",
+            "size": 11378293
+          }
+        ]
+      },
+      {
+        "name": "Still",
+        "singer": "FLOWER",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "FLOWER - Still.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/FLOWER - Still.mp3",
+            "size": 10223330
+          }
+        ]
+      }
+    ]
+  },
+  "fripSide": {
+    "name": "fripSide",
+    "song": [
+      {
+        "name": "Clover Heart's -Re：product mix- full chorus ver",
+        "singer": "fripSide",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "fripSide - Clover Heart's -Re：product mix- full chorus ver.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/fripSide - Clover Heart's -Re：product mix- full chorus ver.mp3",
+            "size": 11168451
+          }
+        ]
+      },
+      {
+        "name": "miracle luminous",
+        "singer": "fripSide",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "fripSide - miracle luminous.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/fripSide - miracle luminous.mp3",
+            "size": 11223577
+          }
+        ]
+      }
+    ]
+  },
+  "fumika": {
+    "name": "fumika",
+    "song": [
+      {
+        "name": "その声消えないよ feat. Sunya",
+        "singer": "fumika",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "fumika - その声消えないよ feat. Sunya.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/fumika - その声消えないよ feat. Sunya.mp3",
+            "size": 12716619
+          }
+        ]
+      },
+      {
+        "name": "その声消えないよ",
+        "singer": "fumika,Sunya",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "fumika,Sunya - その声消えないよ.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/fumika,Sunya - その声消えないよ.mp3",
+            "size": 12046649
+          }
+        ]
+      }
+    ]
+  },
+  "GET IN THE RING": {
+    "name": "GET IN THE RING",
+    "song": [
+      {
+        "name": "Childhood Dreamer",
+        "singer": "GET IN THE RING",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "GET IN THE RING - Childhood Dreamer.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/GET IN THE RING - Childhood Dreamer.flac",
+            "size": 39277032
+          }
+        ]
+      },
+      {
+        "name": "Samsara",
+        "singer": "GET IN THE RING",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "GET IN THE RING - Samsara.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/GET IN THE RING - Samsara.mp3",
+            "size": 13420777
+          }
+        ]
+      }
+    ]
+  },
+  "GOING UNDER GROUND": {
+    "name": "GOING UNDER GROUND",
+    "song": [
+      {
+        "name": "LISTEN TO THE STEREO!!",
+        "singer": "GOING UNDER GROUND",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "GOING UNDER GROUND - LISTEN TO THE STEREO!!.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/GOING UNDER GROUND - LISTEN TO THE STEREO!!.flac",
+            "size": 28934692
+          }
+        ]
+      }
+    ]
+  },
+  "Goose house": {
+    "name": "Goose house",
+    "song": [
+      {
+        "name": "冬のエピローグ",
+        "singer": "Goose house",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Goose house - 冬のエピローグ.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Goose house - 冬のエピローグ.flac",
+            "size": 36191222
+          }
+        ]
+      },
+      {
+        "name": "ごはんを食べよう",
+        "singer": "Goose house",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Goose house - ごはんを食べよう.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Goose house - ごはんを食べよう.mp3",
+            "size": 10931203
+          }
+        ]
+      }
+    ]
+  },
+  "GUMI": {
+    "name": "GUMI",
+    "song": [
+      {
+        "name": "流★群Meteor Stream",
+        "singer": "GUMI",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "GUMI - 流★群Meteor Stream.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/GUMI - 流★群Meteor Stream.mp3",
+            "size": 9410007
+          }
+        ]
+      }
+    ]
+  },
+  "Hanah": {
+    "name": "Hanah",
+    "song": [
+      {
+        "name": "あいたい気持ち",
+        "singer": "Hanah",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Hanah - あいたい気持ち.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Hanah - あいたい気持ち.mp3",
+            "size": 12763238
+          }
+        ]
+      }
+    ]
+  },
+  "HAPPY BIRTHDAY": {
+    "name": "HAPPY BIRTHDAY",
+    "song": [
+      {
+        "name": "君だったら",
+        "singer": "HAPPY BIRTHDAY",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "HAPPY BIRTHDAY - 君だったら.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/HAPPY BIRTHDAY - 君だったら.mp3",
+            "size": 13244871
+          }
+        ]
+      }
+    ]
+  },
+  "HOUND DOG": {
+    "name": "HOUND DOG",
+    "song": [
+      {
+        "name": "R★O★C★K★S",
+        "singer": "HOUND DOG",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "HOUND DOG - R★O★C★K★S.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/HOUND DOG - R★O★C★K★S.mp3",
+            "size": 7197794
+          }
+        ]
+      }
+    ]
+  },
+  "Iceloki": {
+    "name": "Iceloki",
+    "song": [
+      {
+        "name": "魔法少女の宿命",
+        "singer": "Iceloki",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Iceloki - 魔法少女の宿命.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Iceloki - 魔法少女の宿命.mp3",
+            "size": 12127695
+          }
+        ]
+      }
+    ]
+  },
+  "IKU": {
+    "name": "IKU",
+    "song": [
+      {
+        "name": "誓い言～スコシだけもう一度～",
+        "singer": "IKU",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "IKU - 誓い言～スコシだけもう一度～.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/IKU - 誓い言～スコシだけもう一度～.flac",
+            "size": 31650030
+          }
+        ]
+      }
+    ]
+  },
+  "JASMINE": {
+    "name": "JASMINE",
+    "song": [
+      {
+        "name": "ONLY YOU",
+        "singer": "JASMINE",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "JASMINE - ONLY YOU.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/JASMINE - ONLY YOU.mp3",
+            "size": 11404800
+          }
+        ]
+      }
+    ]
+  },
+  "JS": {
+    "name": "JS",
+    "song": [
+      {
+        "name": "杀破狼",
+        "singer": "JS",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "JS - 杀破狼.ncm",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/JS - 杀破狼.ncm",
+            "size": 32504920
+          }
+        ]
+      }
+    ]
+  },
+  "Juliet": {
+    "name": "Juliet",
+    "song": [
+      {
+        "name": "アキラブ",
+        "singer": "Juliet",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Juliet - アキラブ.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Juliet - アキラブ.mp3",
+            "size": 12813968
+          }
+        ]
+      },
+      {
+        "name": "スキナトコ",
+        "singer": "Juliet",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Juliet - スキナトコ.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Juliet - スキナトコ.mp3",
+            "size": 13858246
+          }
+        ]
+      }
+    ]
+  },
+  "Junky": {
+    "name": "Junky",
+    "song": [
+      {
+        "name": "メランコリック",
+        "singer": "Junky,鏡音リン",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "Junky,鏡音リン - メランコリック.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Junky,鏡音リン - メランコリック.mp3",
+            "size": 9038860
+          }
+        ]
+      }
+    ]
+  },
+  "jyA": {
+    "name": "jyA",
+    "song": [
+      {
+        "name": "Me - 嫌いにさせてよ・・・ feat. SHUN",
+        "singer": "jyA",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "jyA-Me - 嫌いにさせてよ・・・ feat. SHUN.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/jyA-Me - 嫌いにさせてよ・・・ feat. SHUN.mp3",
+            "size": 13952101
+          }
+        ]
+      },
+      {
+        "name": "Me - I won’t miss u anymore",
+        "singer": "jyA",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "jyA-Me - I won’t miss u anymore.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/jyA-Me - I won’t miss u anymore.mp3",
+            "size": 6329102
+          }
+        ]
+      }
+    ]
+  },
+  "K.J. with AZU": {
+    "name": "K.J. with AZU",
+    "song": [
+      {
+        "name": "愛されたい…愛してる？with AZU",
+        "singer": "K.J. with AZU",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "K.J. with AZU - 愛されたい…愛してる？with AZU.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/K.J. with AZU - 愛されたい…愛してる？with AZU.flac",
+            "size": 42460831
+          }
+        ]
+      }
+    ]
+  },
+  "K2 SOUND": {
+    "name": "K2 SOUND",
+    "song": [
+      {
+        "name": "fairy stage",
+        "singer": "K2 SOUND",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "K2 SOUND - fairy stage.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/K2 SOUND - fairy stage.mp3",
+            "size": 9170038
+          }
+        ]
+      }
+    ]
+  },
+  "Kalafina": {
+    "name": "Kalafina",
+    "song": [
+      {
+        "name": "Magia",
+        "singer": "Kalafina",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Kalafina - Magia.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Kalafina - Magia.mp3",
+            "size": 12725463
+          }
+        ]
+      }
+    ]
+  },
+  "KARAKURI": {
+    "name": "KARAKURI",
+    "song": [
+      {
+        "name": "B.A.A.B",
+        "singer": "KARAKURI",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "KARAKURI - B.A.A.B.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/KARAKURI - B.A.A.B.flac",
+            "size": 31242696
+          }
+        ]
+      }
+    ]
+  },
+  "KG": {
+    "name": "KG",
+    "song": [
+      {
+        "name": "谁よりも duet with 菅原纱由理",
+        "singer": "KG",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "KG - 谁よりも duet with 菅原纱由理.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/KG - 谁よりも duet with 菅原纱由理.mp3",
+            "size": 12783639
+          }
+        ]
+      },
+      {
+        "name": "叶わない恋でも… duet with 滴草由実",
+        "singer": "KG",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "KG - 叶わない恋でも… duet with 滴草由実.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/KG - 叶わない恋でも… duet with 滴草由実.mp3",
+            "size": 12669751
+          }
+        ]
+      },
+      {
+        "name": "いとしすぎて",
+        "singer": "KG",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "KG - いとしすぎて.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/KG - いとしすぎて.mp3",
+            "size": 11208130
+          }
+        ]
+      }
+    ]
+  },
+  "Kissing the Mirror": {
+    "name": "Kissing the Mirror",
+    "song": [
+      {
+        "name": "Your Eyes Only",
+        "singer": "Kissing the Mirror",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Kissing the Mirror - Your Eyes Only.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Kissing the Mirror - Your Eyes Only.mp3",
+            "size": 10214148
+          }
+        ]
+      }
+    ]
+  },
+  "Kitkit Lu": {
+    "name": "Kitkit Lu",
+    "song": [
+      {
+        "name": "Graduation Song ~Pieces of Memory~",
+        "singer": "Kitkit Lu",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Kitkit Lu - Graduation Song ~Pieces of Memory~.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Kitkit Lu - Graduation Song ~Pieces of Memory~.mp3",
+            "size": 8830803
+          }
+        ]
+      }
+    ]
+  },
+  "KOKIA": {
+    "name": "KOKIA",
+    "song": [
+      {
+        "name": "爱のメロディー",
+        "singer": "KOKIA",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "KOKIA - 爱のメロディー(original ver.).flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/KOKIA - 爱のメロディー(original ver.).flac",
+            "size": 37033869
+          }
+        ]
+      },
+      {
+        "name": "調和oto~with reflection~",
+        "singer": "KOKIA",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "KOKIA - 調和oto~with reflection~.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/KOKIA - 調和oto~with reflection~.flac",
+            "size": 32016411
+          }
+        ]
+      },
+      {
+        "name": "Ave Maria",
+        "singer": "KOKIA",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "KOKIA - Ave Maria.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/KOKIA - Ave Maria.flac",
+            "size": 21217597
+          }
+        ]
+      },
+      {
+        "name": "EXEC COSMOFLIPS",
+        "singer": "KOKIA",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "KOKIA - EXEC COSMOFLIPS.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/KOKIA - EXEC COSMOFLIPS.flac",
+            "size": 24539685
+          }
+        ]
+      },
+      {
+        "name": "EXEC_COSMOFLIPS／",
+        "singer": "KOKIA",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "KOKIA - EXEC_COSMOFLIPS／.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/KOKIA - EXEC_COSMOFLIPS／.flac",
+            "size": 26373378
+          }
+        ]
+      },
+      {
+        "name": "Recover",
+        "singer": "KOKIA",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "KOKIA - Recover.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/KOKIA - Recover.flac",
+            "size": 26946640
+          }
+        ]
+      },
+      {
+        "name": "Spirits",
+        "singer": "KOKIA",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "KOKIA - Spirits.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/KOKIA - Spirits.mp3",
+            "size": 12129505
+          }
+        ]
+      },
+      {
+        "name": "Transparent",
+        "singer": "KOKIA",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "KOKIA - Transparent.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/KOKIA - Transparent.flac",
+            "size": 32568862
+          }
+        ]
+      },
+      {
+        "name": "たった1つの想い",
+        "singer": "KOKIA",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "KOKIA - たった1つの想い.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/KOKIA - たった1つの想い.flac",
+            "size": 29329484
+          }
+        ]
+      }
+    ]
+  },
+  "KOTOKO": {
+    "name": "KOTOKO",
+    "song": [
+      {
+        "name": "Light My Fire",
+        "singer": "KOTOKO",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "KOTOKO - Light My Fire.ncm",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/KOTOKO - Light My Fire.ncm",
+            "size": 29665635
+          }
+        ]
+      },
+      {
+        "name": "Reboot oN／↓0",
+        "singer": "KOTOKO",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "KOTOKO - Reboot oN／↓0.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/KOTOKO - Reboot oN／↓0.mp3",
+            "size": 10706723
+          }
+        ]
+      }
+    ]
+  },
+  "Kylee": {
+    "name": "Kylee",
+    "song": [
+      {
+        "name": "大好きなのに",
+        "singer": "Kylee",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Kylee - 大好きなのに.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Kylee - 大好きなのに.mp3",
+            "size": 11967010
+          }
+        ]
+      }
+    ]
+  },
+  "Lia": {
+    "name": "Lia",
+    "song": [
+      {
+        "name": "鳥の詩 ",
+        "singer": "Lia",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Lia - 鳥の詩 (short version).flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Lia - 鳥の詩 (short version).flac",
+            "size": 22860762
+          }
+        ]
+      },
+      {
+        "name": "青空",
+        "singer": "Lia",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Lia - 青空.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Lia - 青空.flac",
+            "size": 29651324
+          }
+        ]
+      },
+      {
+        "name": "時を刻む唄",
+        "singer": "Lia",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Lia - 時を刻む唄.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Lia - 時を刻む唄.flac",
+            "size": 34050979
+          }
+        ]
+      },
+      {
+        "name": "Light colors",
+        "singer": "Lia",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Lia - Light colors.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Lia - Light colors.flac",
+            "size": 52006076
+          }
+        ]
+      },
+      {
+        "name": "TORCH",
+        "singer": "Lia",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Lia - TORCH.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Lia - TORCH.flac",
+            "size": 40335360
+          }
+        ]
+      }
+    ]
+  },
+  "Licana": {
+    "name": "Licana",
+    "song": [
+      {
+        "name": "Love Game",
+        "singer": "Licana",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Licana - Love Game.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Licana - Love Game.mp3",
+            "size": 9889578
+          }
+        ]
+      }
+    ]
+  },
+  "Lily.μ": {
+    "name": "Lily.μ",
+    "song": [
+      {
+        "name": "I hate me",
+        "singer": "Lily.μ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Lily.μ - I hate me.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Lily.μ - I hate me.mp3",
+            "size": 11223895
+          }
+        ]
+      },
+      {
+        "name": "Re： 远く离れた场所で",
+        "singer": "Lily.μ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Lily.μ - Re： 远く离れた场所で.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Lily.μ - Re： 远く离れた场所で.mp3",
+            "size": 10045136
+          }
+        ]
+      }
+    ]
+  },
+  "LOVE": {
+    "name": "LOVE",
+    "song": [
+      {
+        "name": "大切なキモチ",
+        "singer": "LOVE",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "LOVE - 大切なキモチ.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/LOVE - 大切なキモチ.mp3",
+            "size": 12632623
+          }
+        ]
+      },
+      {
+        "name": "片思い",
+        "singer": "LOVE",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "LOVE - 片思い.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/LOVE - 片思い.mp3",
+            "size": 12167174
+          }
+        ]
+      }
+    ]
+  },
+  "m.o.v.e": {
+    "name": "m.o.v.e",
+    "song": [
+      {
+        "name": "Outsoar The Rainbow",
+        "singer": "m.o.v.e",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "m.o.v.e - Outsoar The Rainbow.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/m.o.v.e - Outsoar The Rainbow.flac",
+            "size": 41386040
+          }
+        ]
+      },
+      {
+        "name": "Rage your dream",
+        "singer": "m.o.v.e",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "m.o.v.e - Rage your dream.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/m.o.v.e - Rage your dream.mp3",
+            "size": 11263376
+          }
+        ]
+      }
+    ]
+  },
+  "MACO": {
+    "name": "MACO",
+    "song": [
+      {
+        "name": "I Wanna Go",
+        "singer": "MACO",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "MACO - I Wanna Go.ncm",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/MACO - I Wanna Go.ncm",
+            "size": 10303557
+          }
+        ]
+      }
+    ]
+  },
+  "Manami": {
+    "name": "Manami",
+    "song": [
+      {
+        "name": "Fallin",
+        "singer": "Manami",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Manami - Fallin.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Manami - Fallin.mp3",
+            "size": 12952023
+          }
+        ]
+      }
+    ]
+  },
+  "mao": {
+    "name": "mao",
+    "song": [
+      {
+        "name": "夢をかなえてドラえもん",
+        "singer": "mao",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "mao - 夢をかなえてドラえもん.ncm",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/mao - 夢をかなえてドラえもん.ncm",
+            "size": 10111537
+          }
+        ]
+      }
+    ]
+  },
+  "MAY'S": {
+    "name": "MAY'S",
+    "song": [
+      {
+        "name": "君に届け",
+        "singer": "MAY'S",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "MAY'S - 君に届け.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/MAY'S - 君に届け.mp3",
+            "size": 15263223
+          }
+        ]
+      },
+      {
+        "name": "キミじゃなきゃ",
+        "singer": "MAY'S",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "MAY'S - キミじゃなきゃ.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/MAY'S - キミじゃなきゃ.mp3",
+            "size": 8473354
+          }
+        ]
+      }
+    ]
+  },
+  "mican＊": {
+    "name": "mican＊",
+    "song": [
+      {
+        "name": "Saigetsu",
+        "singer": "mican＊,綾倉盟",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "mican＊,綾倉盟 - Saigetsu(砕月).flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/mican＊,綾倉盟 - Saigetsu(砕月).flac",
+            "size": 48911260
+          }
+        ]
+      }
+    ]
+  },
+  "MiChi": {
+    "name": "MiChi",
+    "song": [
+      {
+        "name": "HEARTBEAT ",
+        "singer": "MiChi",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "MiChi - HEARTBEAT (album mix).mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/MiChi - HEARTBEAT (album mix).mp3",
+            "size": 9143432
+          }
+        ]
+      }
+    ]
+  },
+  "Mili": {
+    "name": "Mili",
+    "song": [
+      {
+        "name": "world.execute  ;",
+        "singer": "Mili",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Mili - world.execute (me) ;.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Mili - world.execute (me) ;.mp3",
+            "size": 8685153
+          }
+        ]
+      }
+    ]
+  },
+  "miwa": {
+    "name": "miwa",
+    "song": [
+      {
+        "name": "chAngE",
+        "singer": "miwa",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "miwa - chAngE.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/miwa - chAngE.mp3",
+            "size": 9989358
+          }
+        ]
+      }
+    ]
+  },
+  "MONACA": {
+    "name": "MONACA",
+    "song": [
+      {
+        "name": "Weight of the World_the End of YoRHa",
+        "singer": "MONACA",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "MONACA - Weight of the World_the End of YoRHa.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/MONACA - Weight of the World_the End of YoRHa.flac",
+            "size": 38126106
+          }
+        ]
+      }
+    ]
+  },
+  "moumoon": {
+    "name": "moumoon",
+    "song": [
+      {
+        "name": "Brilliant days",
+        "singer": "moumoon",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "moumoon - Brilliant days.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/moumoon - Brilliant days.flac",
+            "size": 28644201
+          }
+        ]
+      }
+    ]
+  },
+  "Ms.OOJA": {
+    "name": "Ms.OOJA",
+    "song": [
+      {
+        "name": "baby don't know why",
+        "singer": "Ms.OOJA",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Ms.OOJA - baby don't know why.ncm",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Ms.OOJA - baby don't know why.ncm",
+            "size": 11504341
+          }
+        ]
+      },
+      {
+        "name": "Be",
+        "singer": "Ms.OOJA",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Ms.OOJA - Be.ncm",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Ms.OOJA - Be.ncm",
+            "size": 12346368
+          }
+        ]
+      }
+    ]
+  },
+  "Mye": {
+    "name": "Mye",
+    "song": [
+      {
+        "name": "执行犹予",
+        "singer": "Mye",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Mye - 执行犹予.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Mye - 执行犹予.mp3",
+            "size": 10476889
+          }
+        ]
+      }
+    ]
+  },
+  "MYTH & ROID": {
+    "name": "MYTH & ROID",
+    "song": [
+      {
+        "name": "STYX HELIX",
+        "singer": "MYTH & ROID",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "MYTH & ROID - STYX HELIX.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/MYTH & ROID - STYX HELIX.flac",
+            "size": 38774545
+          }
+        ]
+      }
+    ]
+  },
+  "nano.RIPE": {
+    "name": "nano.RIPE",
+    "song": [
+      {
+        "name": "もしもの话",
+        "singer": "nano.RIPE",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "nano.RIPE - もしもの话.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/nano.RIPE - もしもの话.mp3",
+            "size": 10166276
+          }
+        ]
+      }
+    ]
+  },
+  "nao": {
+    "name": "nao",
+    "song": [
+      {
+        "name": "scarlet leap",
+        "singer": "nao",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "nao - scarlet leap.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/nao - scarlet leap.mp3",
+            "size": 14100952
+          }
+        ]
+      }
+    ]
+  },
+  "Naomile": {
+    "name": "Naomile",
+    "song": [
+      {
+        "name": "手纸 ~拝啓 绪五の君へ~",
+        "singer": "Naomile",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Naomile - 手纸 ~拝啓 绪五の君へ~.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Naomile - 手纸 ~拝啓 绪五の君へ~.mp3",
+            "size": 7657783
+          }
+        ]
+      },
+      {
+        "name": "YELL",
+        "singer": "Naomile",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Naomile - YELL.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Naomile - YELL.mp3",
+            "size": 15401622
+          }
+        ]
+      }
+    ]
+  },
+  "nayuta": {
+    "name": "nayuta",
+    "song": [
+      {
+        "name": "緋色月下、狂咲ノ絶　-1st Anniversary Remix-",
+        "singer": "nayuta",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "nayuta - 緋色月下、狂咲ノ絶　-1st Anniversary Remix-.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/nayuta - 緋色月下、狂咲ノ絶　-1st Anniversary Remix-.flac",
+            "size": 47501836
+          }
+        ]
+      },
+      {
+        "name": "滲色血界、月狂ノ獄",
+        "singer": "nayuta",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "nayuta - 滲色血界、月狂ノ獄.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/nayuta - 滲色血界、月狂ノ獄.flac",
+            "size": 47963104
+          }
+        ]
+      },
+      {
+        "name": "死奏怜音、玲珑ノ终",
+        "singer": "nayuta",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "nayuta - 死奏怜音、玲珑ノ终.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/nayuta - 死奏怜音、玲珑ノ终.mp3",
+            "size": 15944357
+          }
+        ]
+      }
+    ]
+  },
+  "NIKA": {
+    "name": "NIKA",
+    "song": [
+      {
+        "name": "M",
+        "singer": "NIKA",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "NIKA - M.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/NIKA - M.mp3",
+            "size": 14230037
+          }
+        ]
+      }
+    ]
+  },
+  "NJK Record": {
+    "name": "NJK Record",
+    "song": [
+      {
+        "name": "Search for the butterfly",
+        "singer": "NJK Record",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "NJK Record - Search for the butterfly(二色莲花蝶　〜 Ancients).mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/NJK Record - Search for the butterfly(二色莲花蝶　〜 Ancients).mp3",
+            "size": 11062885
+          }
+        ]
+      },
+      {
+        "name": "WARNING!",
+        "singer": "NJK Record",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "NJK Record - WARNING!(霊知の太阳信仰　〜 Nuclear Fusion).mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/NJK Record - WARNING!(霊知の太阳信仰　〜 Nuclear Fusion).mp3",
+            "size": 13790068
+          }
+        ]
+      }
+    ]
+  },
+  "Ólafur Arnalds": {
+    "name": "Ólafur Arnalds",
+    "song": [
+      {
+        "name": "3055",
+        "singer": "Ólafur Arnalds",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Ólafur Arnalds - 3055.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Ólafur Arnalds - 3055.mp3",
+            "size": 13129541
+          }
+        ]
+      }
+    ]
+  },
+  "petit milady": {
+    "name": "petit milady",
+    "song": [
+      {
+        "name": "カサナリアル",
+        "singer": "petit milady",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "petit milady - カサナリアル.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/petit milady - カサナリアル.mp3",
+            "size": 11487195
+          }
+        ]
+      }
+    ]
+  },
+  "Queen of Wand": {
+    "name": "Queen of Wand",
+    "song": [
+      {
+        "name": "花岬",
+        "singer": "Queen of Wand",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Queen of Wand - 花岬.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Queen of Wand - 花岬.mp3",
+            "size": 11673862
+          }
+        ]
+      },
+      {
+        "name": "迷宫大図鑑",
+        "singer": "Queen of Wand",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Queen of Wand - 迷宫大図鑑.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Queen of Wand - 迷宫大図鑑.mp3",
+            "size": 9251682
+          }
+        ]
+      },
+      {
+        "name": "flamma-神托の炎",
+        "singer": "Queen of Wand",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Queen of Wand - flamma-神托の炎.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Queen of Wand - flamma-神托の炎.mp3",
+            "size": 13257153
+          }
+        ]
+      }
+    ]
+  },
+  "Rainy Garden": {
+    "name": "Rainy Garden",
+    "song": [
+      {
+        "name": "FREYJA.sys～システム・フレイヤ～",
+        "singer": "Rainy Garden",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Rainy Garden - FREYJA.sys～システム・フレイヤ～.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Rainy Garden - FREYJA.sys～システム・フレイヤ～.flac",
+            "size": 33563642
+          }
+        ]
+      }
+    ]
+  },
+  "RAM WIRE": {
+    "name": "RAM WIRE",
+    "song": [
+      {
+        "name": "僕らの手には何もないけど、",
+        "singer": "RAM WIRE",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "RAM WIRE - 僕らの手には何もないけど、.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/RAM WIRE - 僕らの手には何もないけど、.mp3",
+            "size": 10241575
+          }
+        ]
+      },
+      {
+        "name": "約束",
+        "singer": "RAM WIRE",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "RAM WIRE - 約束.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/RAM WIRE - 約束.mp3",
+            "size": 11367014
+          }
+        ]
+      }
+    ]
+  },
+  "RegaSound": {
+    "name": "RegaSound",
+    "song": [
+      {
+        "name": "月の雫 ",
+        "singer": "RegaSound",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "RegaSound - 月の雫 (东方萃梦想).mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/RegaSound - 月の雫 (东方萃梦想).mp3",
+            "size": 12953355
+          }
+        ]
+      }
+    ]
+  },
+  "Revo & 梶浦由記": {
+    "name": "Revo & 梶浦由記",
+    "song": [
+      {
+        "name": "砂塵の彼方へ",
+        "singer": "Revo & 梶浦由記",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Revo & 梶浦由記 - 砂塵の彼方へ.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Revo & 梶浦由記 - 砂塵の彼方へ.mp3",
+            "size": 18032742
+          }
+        ]
+      },
+      {
+        "name": "sand dream",
+        "singer": "Revo & 梶浦由記",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Revo & 梶浦由記 - sand dream.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Revo & 梶浦由記 - sand dream.mp3",
+            "size": 18378599
+          }
+        ]
+      }
+    ]
+  },
+  "rhythmic": {
+    "name": "rhythmic",
+    "song": [
+      {
+        "name": "キミに伝えたくて",
+        "singer": "rhythmic",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "rhythmic - キミに伝えたくて.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/rhythmic - キミに伝えたくて.mp3",
+            "size": 11177889
+          }
+        ]
+      }
+    ]
+  },
+  "Riryka": {
+    "name": "Riryka",
+    "song": [
+      {
+        "name": "始まりの日",
+        "singer": "Riryka",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Riryka - 始まりの日.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Riryka - 始まりの日.mp3",
+            "size": 12249633
+          }
+        ]
+      }
+    ]
+  },
+  "savage genius": {
+    "name": "savage genius",
+    "song": [
+      {
+        "name": "Forever",
+        "singer": "savage genius",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "savage genius - Forever.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/savage genius - Forever.flac",
+            "size": 40520466
+          }
+        ]
+      }
+    ]
+  },
+  "SawanoHiroyuki[nZk]": {
+    "name": "SawanoHiroyuki[nZk]",
+    "song": [
+      {
+        "name": "e of s",
+        "singer": "SawanoHiroyuki[nZk],mizuki",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "SawanoHiroyuki[nZk]、mizuki - e of s.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/SawanoHiroyuki[nZk]、mizuki - e of s.flac",
+            "size": 29789090
+          }
+        ]
+      },
+      {
+        "name": "ViEW",
+        "singer": "SawanoHiroyuki[nZk],mizuki",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "SawanoHiroyuki[nZk]、mizuki - ViEW.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/SawanoHiroyuki[nZk]、mizuki - ViEW.flac",
+            "size": 25965878
+          }
+        ]
+      }
+    ]
+  },
+  "See": {
+    "name": "See",
+    "song": [
+      {
+        "name": "Saw - あんなに一绪だったのに",
+        "singer": "See",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "See-Saw - あんなに一绪だったのに.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/See-Saw - あんなに一绪だったのに.mp3",
+            "size": 11934015
+          }
+        ]
+      }
+    ]
+  },
+  "So'Fly": {
+    "name": "So'Fly",
+    "song": [
+      {
+        "name": "FIRST KISS",
+        "singer": "So'Fly",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "So'Fly - FIRST KISS.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/So'Fly - FIRST KISS.mp3",
+            "size": 12746769
+          }
+        ]
+      }
+    ]
+  },
+  "Sotte Bosse": {
+    "name": "Sotte Bosse",
+    "song": [
+      {
+        "name": "ナミダノコエ",
+        "singer": "Sotte Bosse",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Sotte Bosse - ナミダノコエ.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Sotte Bosse - ナミダノコエ.mp3",
+            "size": 7607930
+          }
+        ]
+      }
+    ]
+  },
+  "SoulJa": {
+    "name": "SoulJa",
+    "song": [
+      {
+        "name": "Kokoni Iruyo Feat. Aoyama Thel",
+        "singer": "SoulJa",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "SoulJa - Kokoni Iruyo Feat. Aoyama Thel.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/SoulJa - Kokoni Iruyo Feat. Aoyama Thel.mp3",
+            "size": 8410725
+          }
+        ]
+      },
+      {
+        "name": "rain",
+        "singer": "SoulJa",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "SoulJa - rain.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/SoulJa - rain.mp3",
+            "size": 10764799
+          }
+        ]
+      },
+      {
+        "name": "Sotsugyo",
+        "singer": "SoulJa",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "SoulJa - Sotsugyo.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/SoulJa - Sotsugyo.mp3",
+            "size": 7112577
+          }
+        ]
+      },
+      {
+        "name": "What’s your name？ ",
+        "singer": "SoulJa,中村舞子,壇蜜",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "SoulJa,中村舞子,壇蜜 - What’s your name？ (collaboration with 壇蜜).mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/SoulJa,中村舞子,壇蜜 - What’s your name？ (collaboration with 壇蜜).mp3",
+            "size": 12068633
+          }
+        ]
+      },
+      {
+        "name": "Way to Love~最後の恋~",
+        "singer": "SoulJa,TRUE",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "SoulJa,TRUE - Way to Love~最後の恋~.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/SoulJa,TRUE - Way to Love~最後の恋~.mp3",
+            "size": 13408044
+          }
+        ]
+      },
+      {
+        "name": "そばにいるね SoulJa×YUKIE",
+        "singer": "SoulJa,YUKIE",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "SoulJa,YUKIE - そばにいるね SoulJa×YUKIE.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/SoulJa,YUKIE - そばにいるね SoulJa×YUKIE.mp3",
+            "size": 13063575
+          }
+        ]
+      }
+    ]
+  },
+  "Spontania": {
+    "name": "Spontania",
+    "song": [
+      {
+        "name": "同じ空みつめてるあなたに",
+        "singer": "Spontania,AZU",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "Spontania,AZU - 同じ空みつめてるあなたに.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Spontania,AZU - 同じ空みつめてるあなたに.mp3",
+            "size": 11559824
+          }
+        ]
+      },
+      {
+        "name": "君のすべてに",
+        "singer": "Spontania,JUJU",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "Spontania,JUJU - 君のすべてに.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Spontania,JUJU - 君のすべてに.mp3",
+            "size": 10771728
+          }
+        ]
+      }
+    ]
+  },
+  "Stack": {
+    "name": "Stack",
+    "song": [
+      {
+        "name": "LOOP",
+        "singer": "Stack",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Stack - LOOP.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Stack - LOOP.mp3",
+            "size": 11222411
+          }
+        ]
+      }
+    ]
+  },
+  "Suara": {
+    "name": "Suara",
+    "song": [
+      {
+        "name": "キミガタメ",
+        "singer": "Suara",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Suara - キミガタメ.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Suara - キミガタメ.flac",
+            "size": 51126597
+          }
+        ]
+      }
+    ]
+  },
+  "SUPER EUROBEAT": {
+    "name": "SUPER EUROBEAT",
+    "song": [
+      {
+        "name": "Speedy Speed Boy",
+        "singer": "SUPER EUROBEAT",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "SUPER EUROBEAT - Speedy Speed Boy.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/SUPER EUROBEAT - Speedy Speed Boy.mp3",
+            "size": 14401973
+          }
+        ]
+      }
+    ]
+  },
+  "Supercell": {
+    "name": "Supercell",
+    "song": [
+      {
+        "name": "My Dearest",
+        "singer": "Supercell",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Supercell - My Dearest.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Supercell - My Dearest.flac",
+            "size": 41952801
+          }
+        ]
+      }
+    ]
+  },
+  "Sweet Licious": {
+    "name": "Sweet Licious",
+    "song": [
+      {
+        "name": "夜空のメロディー feat.C",
+        "singer": "Sweet Licious",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Sweet Licious - 夜空のメロディー feat.C.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Sweet Licious - 夜空のメロディー feat.C.flac",
+            "size": 34323822
+          }
+        ]
+      },
+      {
+        "name": "My Heart ~キミに届けたい~",
+        "singer": "Sweet Licious",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Sweet Licious - My Heart ~キミに届けたい~.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Sweet Licious - My Heart ~キミに届けたい~.mp3",
+            "size": 12722751
+          }
+        ]
+      },
+      {
+        "name": "Who Do You Love？",
+        "singer": "Sweet Licious",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Sweet Licious - Who Do You Love？.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Sweet Licious - Who Do You Love？.mp3",
+            "size": 9529471
+          }
+        ]
+      },
+      {
+        "name": "Winter Kiss ~冬がくれたラブストーリー~",
+        "singer": "Sweet Licious",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Sweet Licious - Winter Kiss ~冬がくれたラブストーリー~.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Sweet Licious - Winter Kiss ~冬がくれたラブストーリー~.mp3",
+            "size": 12227872
+          }
+        ]
+      },
+      {
+        "name": "Winter Tears",
+        "singer": "Sweet Licious",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Sweet Licious - Winter Tears.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Sweet Licious - Winter Tears.mp3",
+            "size": 7421340
+          }
+        ]
+      }
+    ]
+  },
+  "SYNC.ART'S": {
+    "name": "SYNC.ART'S",
+    "song": [
+      {
+        "name": "世界闭じる场所",
+        "singer": "SYNC.ART'S",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "SYNC.ART'S - 世界闭じる场所.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/SYNC.ART'S - 世界闭じる场所.mp3",
+            "size": 8292083
+          }
+        ]
+      }
+    ]
+  },
+  "SYO": {
+    "name": "SYO",
+    "song": [
+      {
+        "name": "夢幻の物語",
+        "singer": "SYO",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "SYO - 夢幻の物語.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/SYO - 夢幻の物語.mp3",
+            "size": 9991493
+          }
+        ]
+      }
+    ]
+  },
+  "Tacke竹桑": {
+    "name": "Tacke竹桑",
+    "song": [
+      {
+        "name": "戏里春秋戏外听",
+        "singer": "Tacke竹桑,蝙蝠",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "Tacke竹桑,蝙蝠 - 戏里春秋戏外听.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Tacke竹桑,蝙蝠 - 戏里春秋戏外听.mp3",
+            "size": 8683413
+          }
+        ]
+      }
+    ]
+  },
+  "TAIBIAN": {
+    "name": "TAIBIAN",
+    "song": [
+      {
+        "name": "배영하는 물고기",
+        "singer": "TAIBIAN,DIA",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "TAIBIAN,DIA - 배영하는 물고기.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/TAIBIAN,DIA - 배영하는 물고기.mp3",
+            "size": 12360669
+          }
+        ]
+      }
+    ]
+  },
+  "Tiara": {
+    "name": "Tiara",
+    "song": [
+      {
+        "name": "My best friend",
+        "singer": "Tiara",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Tiara - My best friend.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Tiara - My best friend.mp3",
+            "size": 11244368
+          }
+        ]
+      }
+    ]
+  },
+  "TЁЯRA": {
+    "name": "TЁЯRA",
+    "song": [
+      {
+        "name": "华烂漫 -Flowers-",
+        "singer": "TЁЯRA",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "TЁЯRA - 华烂漫 -Flowers-.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/TЁЯRA - 华烂漫 -Flowers-.mp3",
+            "size": 9344320
+          }
+        ]
+      }
+    ]
+  },
+  "V.A.": {
+    "name": "V.A.",
+    "song": [
+      {
+        "name": "明日への扉／I WISH",
+        "singer": "V.A.",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "V.A. - 明日への扉／I WISH.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/V.A. - 明日への扉／I WISH.mp3",
+            "size": 12212824
+          }
+        ]
+      },
+      {
+        "name": "friend",
+        "singer": "V.A.",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "V.A. - friend.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/V.A. - friend.mp3",
+            "size": 11077269
+          }
+        ]
+      },
+      {
+        "name": "refrain moon",
+        "singer": "V.A.",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "V.A. - refrain moon.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/V.A. - refrain moon.flac",
+            "size": 30390613
+          }
+        ]
+      }
+    ]
+  },
+  "VeraJae": {
+    "name": "VeraJae",
+    "song": [
+      {
+        "name": "Every Heart（Cover：BoA）",
+        "singer": "VeraJae",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "VeraJae - Every Heart（Cover：BoA）.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/VeraJae - Every Heart（Cover：BoA）.mp3",
+            "size": 10898522
+          }
+        ]
+      }
+    ]
+  },
+  "Vivian Or Kazuma": {
+    "name": "Vivian Or Kazuma",
+    "song": [
+      {
+        "name": "Moment",
+        "singer": "Vivian Or Kazuma",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Vivian Or Kazuma - Moment.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Vivian Or Kazuma - Moment.flac",
+            "size": 34586520
+          }
+        ]
+      }
+    ]
+  },
+  "Vivian or Kazuma": {
+    "name": "Vivian or Kazuma",
+    "song": [
+      {
+        "name": "moment",
+        "singer": "Vivian or Kazuma",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Vivian or Kazuma - moment.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Vivian or Kazuma - moment.mp3",
+            "size": 10337704
+          }
+        ]
+      }
+    ]
+  },
+  "Vivid": {
+    "name": "Vivid",
+    "song": [
+      {
+        "name": "BLUE",
+        "singer": "Vivid",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Vivid - BLUE.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Vivid - BLUE.mp3",
+            "size": 5149556
+          }
+        ]
+      }
+    ]
+  },
+  "Vivienne": {
+    "name": "Vivienne",
+    "song": [
+      {
+        "name": "Innocent World",
+        "singer": "Vivienne",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "Vivienne - Innocent World.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/Vivienne - Innocent World.mp3",
+            "size": 10292719
+          }
+        ]
+      }
+    ]
+  },
+  "wakana": {
+    "name": "wakana",
+    "song": [
+      {
+        "name": "Bloody rabbit",
+        "singer": "wakana",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "wakana - Bloody rabbit.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/wakana - Bloody rabbit.mp3",
+            "size": 6469429
+          }
+        ]
+      },
+      {
+        "name": "Preparation",
+        "singer": "wakana",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "wakana - Preparation.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/wakana - Preparation.mp3",
+            "size": 9580088
+          }
+        ]
+      }
+    ]
+  },
+  "wowaka": {
+    "name": "wowaka",
+    "song": [
+      {
+        "name": "ワールズエンド・ダンスホール",
+        "singer": "wowaka",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "wowaka - ワールズエンド・ダンスホール.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/wowaka - ワールズエンド・ダンスホール.mp3",
+            "size": 8845498
+          }
+        ]
+      }
+    ]
+  },
+  "XX：me": {
+    "name": "XX：me",
+    "song": [
+      {
+        "name": "トリカゴ",
+        "singer": "XX：me",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "XX：me - トリカゴ.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/XX：me - トリカゴ.flac",
+            "size": 29318140
+          }
+        ]
+      }
+    ]
+  },
+  "YoRHa": {
+    "name": "YoRHa",
+    "song": [
+      {
+        "name": "Weight of the World／the End of YoRHa",
+        "singer": "YoRHa",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "YoRHa - Weight of the World／the End of YoRHa.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/YoRHa - Weight of the World／the End of YoRHa.flac",
+            "size": 38256849
+          }
+        ]
+      }
+    ]
+  },
+  "yozuca＊": {
+    "name": "yozuca＊",
+    "song": [
+      {
+        "name": "Reincarnation ",
+        "singer": "yozuca＊,飛蘭",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "yozuca＊,飛蘭 - Reincarnation (土宫神楽 谏山黄泉イメージ).mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/yozuca＊,飛蘭 - Reincarnation (土宫神楽 谏山黄泉イメージ).mp3",
+            "size": 13698006
+          }
+        ]
+      }
+    ]
+  },
+  "YU": {
+    "name": "YU",
+    "song": [
+      {
+        "name": "A - 忘れられない恋",
+        "singer": "YU",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "YU-A - 忘れられない恋.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/YU-A - 忘れられない恋.mp3",
+            "size": 10138407
+          }
+        ]
+      },
+      {
+        "name": "A - Time goes by",
+        "singer": "YU",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "YU-A - Time goes by.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/YU-A - Time goes by.mp3",
+            "size": 11939026
+          }
+        ]
+      }
+    ]
+  },
+  "YU.KI.KO.": {
+    "name": "YU.KI.KO.",
+    "song": [
+      {
+        "name": "stOp it",
+        "singer": "YU.KI.KO.",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "YU.KI.KO. - stOp it.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/YU.KI.KO. - stOp it.mp3",
+            "size": 9875785
+          }
+        ]
+      }
+    ]
+  },
+  "YUI": {
+    "name": "YUI",
+    "song": [
+      {
+        "name": "again ~アニメ Version~",
+        "singer": "YUI",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "YUI - again ~アニメ Version~.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/YUI - again ~アニメ Version~.mp3",
+            "size": 4217371
+          }
+        ]
+      },
+      {
+        "name": "again",
+        "singer": "YUI",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "YUI - again.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/YUI - again.mp3",
+            "size": 10518453
+          }
+        ]
+      },
+      {
+        "name": "Rolling star",
+        "singer": "YUI",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "YUI - Rolling star.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/YUI - Rolling star.mp3",
+            "size": 8630402
+          }
+        ]
+      }
+    ]
+  },
+  "ZAQ": {
+    "name": "ZAQ",
+    "song": [
+      {
+        "name": "激情論",
+        "singer": "ZAQ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "ZAQ - 激情論.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/ZAQ - 激情論.mp3",
+            "size": 10519392
+          }
+        ]
+      }
+    ]
+  },
   "未知": {
     "name": "未知",
     "song": [
       {
-        "name": "美丽的神话",
+        "name": "죽을 만큼 아파서",
         "singer": "未知",
         "isManyPeople": false,
         "files": [
           {
-            "name": " 美丽的神话 .flac",
-            "filePath": "/Users/jiangyalin/Desktop/ 美丽的神话 .flac",
-            "size": 25841714
+            "name": "죽을 만큼 아파서.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/죽을 만큼 아파서.mp3",
+            "size": 10783545
+          }
+        ]
+      }
+    ]
+  },
+  "アイドルカレッジ": {
+    "name": "アイドルカレッジ",
+    "song": [
+      {
+        "name": "Myself",
+        "singer": "アイドルカレッジ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "アイドルカレッジ - Myself.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/アイドルカレッジ - Myself.flac",
+            "size": 30710716
+          }
+        ]
+      }
+    ]
+  },
+  "いとうかなこ": {
+    "name": "いとうかなこ",
+    "song": [
+      {
+        "name": "A.R",
+        "singer": "いとうかなこ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "いとうかなこ - A.R.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/いとうかなこ - A.R.mp3",
+            "size": 11654845
+          }
+        ]
+      }
+    ]
+  },
+  "かぴ": {
+    "name": "かぴ",
+    "song": [
+      {
+        "name": "世界は恋に落ちている -acoustic version-",
+        "singer": "かぴ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "かぴ - 世界は恋に落ちている -acoustic version-.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/かぴ - 世界は恋に落ちている -acoustic version-.mp3",
+            "size": 13761557
+          }
+        ]
+      }
+    ]
+  },
+  "ケーキ姫☆優海": {
+    "name": "ケーキ姫☆優海",
+    "song": [
+      {
+        "name": "永夜のパレード",
+        "singer": "ケーキ姫☆優海,JUMA",
+        "isManyPeople": true,
+        "files": [
+          {
+            "name": "ケーキ姫☆優海,JUMA - 永夜のパレード.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/ケーキ姫☆優海,JUMA - 永夜のパレード.mp3",
+            "size": 11413449
+          }
+        ]
+      }
+    ]
+  },
+  "コブクロ": {
+    "name": "コブクロ",
+    "song": [
+      {
+        "name": "Blue Bird",
+        "singer": "コブクロ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "コブクロ - Blue Bird.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/コブクロ - Blue Bird.mp3",
+            "size": 10948947
+          }
+        ]
+      }
+    ]
+  },
+  "シド": {
+    "name": "シド",
+    "song": [
+      {
+        "name": "乱舞のメロディ",
+        "singer": "シド",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "シド - 乱舞のメロディ.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/シド - 乱舞のメロディ.mp3",
+            "size": 9419656
+          }
+        ]
+      }
+    ]
+  },
+  "タイナカ彩智": {
+    "name": "タイナカ彩智",
+    "song": [
+      {
+        "name": "君との明日",
+        "singer": "タイナカ彩智",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "タイナカ彩智 - 君との明日.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/タイナカ彩智 - 君との明日.mp3",
+            "size": 9635749
+          }
+        ]
+      }
+    ]
+  },
+  "タニザワトモフミ": {
+    "name": "タニザワトモフミ",
+    "song": [
+      {
+        "name": "きみにとどけ",
+        "singer": "タニザワトモフミ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "タニザワトモフミ - きみにとどけ.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/タニザワトモフミ - きみにとどけ.mp3",
+            "size": 8405835
+          }
+        ]
+      }
+    ]
+  },
+  "はにーぽけっと": {
+    "name": "はにーぽけっと",
+    "song": [
+      {
+        "name": "Like a Mermaid",
+        "singer": "はにーぽけっと",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "はにーぽけっと - Like a Mermaid.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/はにーぽけっと - Like a Mermaid.flac",
+            "size": 34303958
+          }
+        ]
+      }
+    ]
+  },
+  "ベッキー♪＃": {
+    "name": "ベッキー♪＃",
+    "song": [
+      {
+        "name": "time to go!",
+        "singer": "ベッキー♪＃",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "ベッキー♪＃ - time to go!.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/ベッキー♪＃ - time to go!.mp3",
+            "size": 10878896
+          }
+        ]
+      }
+    ]
+  },
+  "ほたる": {
+    "name": "ほたる",
+    "song": [
+      {
+        "name": "源流懐古",
+        "singer": "ほたる",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "ほたる - 源流懐古.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/ほたる - 源流懐古.mp3",
+            "size": 12369667
+          }
+        ]
+      }
+    ]
+  },
+  "みずさわゆうき": {
+    "name": "みずさわゆうき",
+    "song": [
+      {
+        "name": "Through the Years & Far Away",
+        "singer": "みずさわゆうき",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "みずさわゆうき - Through the Years & Far Away.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/みずさわゆうき - Through the Years & Far Away.mp3",
+            "size": 13608233
+          }
+        ]
+      }
+    ]
+  },
+  "めらみぽっぷ": {
+    "name": "めらみぽっぷ",
+    "song": [
+      {
+        "name": "どうして…",
+        "singer": "めらみぽっぷ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "めらみぽっぷ - どうして….mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/めらみぽっぷ - どうして….mp3",
+            "size": 15634380
+          }
+        ]
+      }
+    ]
+  },
+  "ももちひろこ": {
+    "name": "ももちひろこ",
+    "song": [
+      {
+        "name": "桜ナミダ",
+        "singer": "ももちひろこ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "ももちひろこ - 桜ナミダ.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/ももちひろこ - 桜ナミダ.mp3",
+            "size": 13274175
+          }
+        ]
+      }
+    ]
+  },
+  "ゆかな": {
+    "name": "ゆかな",
+    "song": [
+      {
+        "name": "REINCARNATION",
+        "singer": "ゆかな",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "ゆかな - REINCARNATION.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/ゆかな - REINCARNATION.mp3",
+            "size": 8957690
+          }
+        ]
+      }
+    ]
+  },
+  "ユリカ": {
+    "name": "ユリカ",
+    "song": [
+      {
+        "name": "SIREN",
+        "singer": "ユリカ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "ユリカ - SIREN.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/ユリカ - SIREN.mp3",
+            "size": 9653083
+          }
+        ]
+      }
+    ]
+  },
+  "ワルキューレ": {
+    "name": "ワルキューレ",
+    "song": [
+      {
+        "name": "いけないボーダーライン～album version～",
+        "singer": "ワルキューレ",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "ワルキューレ - いけないボーダーライン～album version～.flac",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/ワルキューレ - いけないボーダーライン～album version～.flac",
+            "size": 36759495
+          }
+        ]
+      }
+    ]
+  },
+  "ヲタみん": {
+    "name": "ヲタみん",
+    "song": [
+      {
+        "name": "Letter Song",
+        "singer": "ヲタみん",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "ヲタみん - Letter Song.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/ヲタみん - Letter Song.mp3",
+            "size": 8069649
+          }
+        ]
+      },
+      {
+        "name": "スウィートタイム",
+        "singer": "ヲタみん",
+        "isManyPeople": false,
+        "files": [
+          {
+            "name": "ヲタみん - スウィートタイム.mp3",
+            "filePath": "/Users/jiangyalin/Desktop/SQ/ヲタみん - スウィートタイム.mp3",
+            "size": 10324741
           }
         ]
       }

@@ -31,3 +31,17 @@
 // const re = /^[0-9]$/
 //
 // console.log('name', re.test(number))
+
+
+let name = '花篝(はなかが)り'
+const rearIndex = name.lastIndexOf(')') + 1
+
+const _name = name.substring(0, rearIndex)
+
+const beforeIndex = _name.lastIndexOf('(')
+
+const remark = _name.substring(beforeIndex, rearIndex)
+
+console.log('remark', remark)
+
+console.log('remark', name.substring(0, beforeIndex) + name.substring(rearIndex))
