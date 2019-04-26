@@ -142,7 +142,7 @@ const getSongName = fileName => {
   const rearIndex = fileName.lastIndexOf('.')
   let _name = trim(fileName.substring(beforeIndex + 1, rearIndex))
   _name = formatSongName(_name)
-  return _name
+  return trim(_name)
 }
 
 // 格式化音乐名称
@@ -351,9 +351,7 @@ app.on('activate', () => {
 //   }
 // }
 
-// 滴草由実 - 花篝(はなかが)り.mp3
 // 和田薫 - 时代を超える想い1.mp3
-// 牧野由依,渕上舞,津田美波 - Love∞Destiny (M@STER VERSION).mp3
 // 霜月はるか - EXEC_LINCA／.flac
 // 水野佐彩 - My Secret (TV size).mp3
 // Aimer,SawanoHiroyuki[nZk] - ninelie ＜cry-v＞.flac
