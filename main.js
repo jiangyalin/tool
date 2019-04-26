@@ -1,7 +1,8 @@
 // const api = require('./src/api')
 const fs = require('fs-extra')
-const {app, BrowserWindow, ipcMain, dialog} = require('electron')
+const { app, BrowserWindow, ipcMain, dialog } = require('electron')
 const configPath = './data/music/singer/index.json'
+const outputPath = '/Users/jiangyalin/Music/test'
 
 let mainWindow
 
@@ -66,7 +67,7 @@ function createWindow () {
       recordSingerInfo(item)
     })
 
-    // copyFile(list, '/Users/jiangyalin/Music/test')
+    // copyFile(list, outputPath)
 
     event.sender.send('compared-file-reply', list)
   })
@@ -139,7 +140,22 @@ const getSingerName = fileName => {
 const getSongName = fileName => {
   const beforeIndex = fileName.indexOf('-')
   const rearIndex = fileName.lastIndexOf('.')
-  return trim(fileName.substring(beforeIndex + 1, rearIndex))
+  let _name = trim(fileName.substring(beforeIndex + 1, rearIndex))
+  _name = formatSongName(_name)
+  return _name
+}
+
+// 格式化音乐名称
+const formatSongName = name => {
+  let _name = removeNickname(name)
+  return _name
+}
+
+// 删除'()'内容
+const removeNickname = name => {
+  const rearIndex = name.lastIndexOf(')') + 1
+  const beforeIndex = name.lastIndexOf('(')
+  return name.substring(0, beforeIndex) + name.substring(rearIndex)
 }
 
 // 生成歌手信息
